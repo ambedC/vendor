@@ -1,0 +1,40 @@
+# Robots.txt for Hyper Local E-commerce Platform
+
+User-agent: *
+Allow: /
+
+# Block private / non-SEO pages
+Disallow: /api/
+Disallow: /my-account/
+Disallow: /cart/
+Disallow: /checkout/
+Disallow: /shopping-list/
+Disallow: /forgot-password/
+Disallow: /admin/
+
+# Allow Next.js public assets (IMPORTANT: Allow before blocking)
+Allow: /_next/image
+Allow: /images/
+Allow: /logos/
+Allow: /locales/
+Allow: /sitemap.xml
+Allow: /robots.txt
+
+# Block Next.js static files (but allow images above)
+Disallow: /_next/static/
+
+# Block aggressive crawlers
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+# Sitemap location
+Sitemap: https://hyper-local-22.vercel.app/sitemap.xml

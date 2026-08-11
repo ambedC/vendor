@@ -1,0 +1,1944 @@
+{
+  "about_us": "About Us",
+  "sponsored": "Sponsored",
+  "addToBucket": "Add to Bucket",
+  "add_photos": "Add Photos",
+  "address": {
+    "addNew": "Add New",
+    "chooseAddress": "Choose Address",
+    "chooseLocation": "Choose your delivery location",
+    "delete_confirm_description": "Are you sure you want to delete this address?",
+    "delete_confirm_title": "Delete address",
+    "delete_failed_description": "Unable to delete the address. Please try again.",
+    "delete_failed_title": "Deletion Failed",
+    "deleted_description": "The address has been successfully deleted.",
+    "deleted_title": "Address Deleted",
+    "deliveryAddress": "Delivery Address",
+    "labels": {
+      "addressLine1": "Address Line 1",
+      "addressLine2": "Address Line 2",
+      "addressType": "Address Type",
+      "city": "City",
+      "defaultAddress": "Set as Default",
+      "landmark": "Landmark",
+      "location": "Select Location",
+      "mobile": "Mobile Number",
+      "state": "State",
+      "zipcode": "Zipcode"
+    },
+    "loading": "Loading...",
+    "noAddresses": "No addresses available",
+    "noSelected": "No address selected",
+    "pleaseAddFirst": "Please add an address first",
+    "selectAddress": "Select Address",
+    "toast": {
+      "addSuccess": "Address added successfully",
+      "error": "Something went wrong",
+      "save_failed": "Save Failure !",
+      "toast": {
+        "error": "error"
+      },
+      "updateSuccess": "Address updated successfully"
+    },
+    "unexpected_error_description": "An unexpected error occurred. Please try again later.",
+    "unexpected_error_title": "Unexpected Error",
+    "update": "Update Address"
+  },
+  "addressSelection": {
+    "current": "Current",
+    "empty": {
+      "button": "Add Your First Address",
+      "failed": "Failed to load addresses. Please try again.",
+      "noAddresses": "No addresses found. Add your first address to continue."
+    },
+    "footer": {
+      "alreadySelected": "Already Selected",
+      "confirm": "Confirm Selection"
+    },
+    "header": {
+      "subtitle": {
+        "empty": "No saved addresses found",
+        "withAddresses": "Choose from {{count}} saved address{{plural}}"
+      },
+      "title": "Select Delivery Address"
+    },
+    "loading": {
+      "message": "Loading all addresses..."
+    }
+  },
+  "address_not_available": "Address not available",
+  "all_products": "All Products",
+  "all_statuses": "All Statuses",
+  "all_types": "All Types",
+  "already_in_list": "Already in list",
+  "amount": "Amount",
+  "amount_max_limit": "Amount cannot exceed $1,000,000",
+  "amount_positive_number": "Amount must be a positive number",
+  "apply": "Apply",
+  "aria": {
+    "close_menu": "Close menu",
+    "open_menu": "Open menu"
+  },
+  "available_options": "Available Options:",
+  "available_promo_codes": "Available Promo Codes",
+  "bad": "Bad",
+  "brand": {
+    "accordionLabel": "Accordion Brands",
+    "loading": "Loading brands...",
+    "noBrands": "No brands found",
+    "scrollMore": "Scroll for more",
+    "selectionAria": "Brand selection",
+    "subtitle": "Click to select",
+    "title": "Brands"
+  },
+  "browse_category": "Browse category",
+  "buyNow": "Buy Now",
+  "by": "by",
+  "cancel": "Cancel",
+  "common": {
+    "cancel": "Cancel"
+  },
+  "cancel_item_failed_msg": "We couldn't cancel the selected item. Please try again.",
+  "cancel_item_failed_title": "Cancellation Failed",
+  "cancel_item_success_msg": "The selected item has been successfully cancelled.",
+  "cancel_item_success_title": "Item Cancelled",
+  "cancel_items": "Cancel Order Items",
+  "cancel_items_desc": "Select an item below to cancel it from your order.",
+  "cart": {
+    "add_failed": "Add to cart failed",
+    "add_failed_description": "Unable to add item to cart",
+    "add_failed_title": "Add to Cart Failed",
+    "add_success": "Item added to cart successfully",
+    "backToHome": "Back to Home",
+    "browseCategories": "Browse Categories",
+    "cancellationPolicy": {
+      "description": "Know your rights",
+      "freeCancellation": "Free cancellation within 2 minutes of placing order",
+      "noRefund": "No refund if delivery partner is assigned",
+      "partialRefund": "Partial refund if cancelled after preparation starts",
+      "title": "Cancellation Policy"
+    },
+    "cartEmptyDescription": "You haven’t added anything yet. Start exploring our products now.",
+    "cartEmptyTitle": "Your Cart is Empty",
+    "continueShopping": "Continue Shopping",
+    "deliveryInstructions": {
+      "description": "Any special instructions for delivery",
+      "placeholder": "e.g., Ring the doorbell, Leave at door, Call before delivery...",
+      "title": "Delivery Instructions"
+    },
+    "orderInstructions": {
+      "description": "Any special instructions for your order",
+      "placeholder": "e.g., Package carefully, Call before pick up...",
+      "title": "Order Instructions"
+    },
+    "error_description": "Something went wrong during add to cart",
+    "error_message": "Something went wrong during add to cart",
+    "error_title": "Error",
+    "fetch_failed": "Failed to fetch updated cart",
+    "fetch_failed_description": "Could not update cart after adding item",
+    "fetch_failed_title": "Cart Fetch Failed",
+    "login_required": "Please login to continue",
+    "selectAddressToCheckRushDelivery": "Select an address to see if Rush Delivery is available",
+    "sync_success_title": "Cart Synced",
+    "sync_success_desc": "Your cart items have been synced successfully",
+    "sync_error_title": "Sync Failed",
+    "sync_error_desc": "An error occurred while syncing your cart",
+    "attachments": {
+      "required": "Attachment required for this item",
+      "uploadButton": "Upload Attachment",
+      "helperText": "Upload up to {{maxFiles}} files (images, PDF, DOCX). Max {{maxSize}}MB per file.",
+      "errors": {
+        "fileTooLarge": {
+          "title": "File Too Large",
+          "description": "File \"{{fileName}}\" is too large. Maximum size is {{maxSize}}MB."
+        },
+        "invalidType": {
+          "title": "Invalid File Type",
+          "description": "File \"{{fileName}}\" has an unsupported format. Only images, PDF, and DOCX files are allowed."
+        },
+        "tooManyFiles": {
+          "title": "Too Many Files",
+          "description": "You can only upload up to {{maxFiles}} files per item."
+        },
+        "uploadFailed": {
+          "title": "Upload Failed",
+          "description": "Failed to process files. Please try again."
+        }
+      },
+      "uploadSuccess": {
+        "title": "Files Added",
+        "description": "{{count}} file(s) added successfully."
+      },
+      "removeSuccess": {
+        "title": "File Removed",
+        "description": "Attachment removed successfully."
+      },
+      "count": "{{count}} Attachment(s)",
+      "helperModeText": "Required attachments for your orders",
+      "optionalLabel": "Optional",
+      "requiredLabel": "Required"
+    },
+    "deliveryMode": {
+      "delivery": "Delivery",
+      "pickup": "Self-Pickup"
+    },
+    "pickup": {
+      "not_supported_title": "Self-Pickup Not Supported",
+      "not_supported_desc": "To place a pickup order, please remove items from the following stores from your cart or select delivery instead:",
+      "store_info": "Store Pickup Address",
+      "instructions_label": "Pickup Instructions",
+      "return_notice": "To return this item, please visit the store where the order was collected."
+    }
+  },
+  "cartItems": {
+    "from": "from",
+    "itemRemoved": {
+      "description": "The item was successfully removed from your cart.",
+      "title": "Item Removed"
+    },
+    "networkError": {
+      "description": "An error occurred while removing the item.",
+      "title": "Network Error"
+    },
+    "removeFailed": {
+      "description": "Unable to remove the item from cart.",
+      "title": "Remove Failed"
+    },
+    "removeItemModal": {
+      "alertDescription": "This action cannot be undone.",
+      "alertTitle": "Warning",
+      "cancelText": "Cancel",
+      "confirmText": "Remove",
+      "description": "Are you sure you want to remove this item from your cart?",
+      "title": "Remove Item"
+    },
+    "customize": "Customize"
+  },
+  "cart_title": "Cart",
+  "cart_updated_description": "Your cart has been successfully updated.",
+  "cart_updated_title": "Cart Updated",
+  "categories": "Categories",
+  "category": {
+    "accordionLabel": "Accordion Categories",
+    "loading": "Loading categories...",
+    "noCategories": "No categories found",
+    "scrollMore": "Scroll for more",
+    "subtitle": "Click to select",
+    "title": "Categories"
+  },
+  "check_back_later": "Check back later for new exciting offers!",
+  "checkout": {
+    "cartCleared": {
+      "description": "Your cart has been cleared successfully",
+      "title": "Cart Cleared"
+    },
+    "clearCart": "Clear Cart",
+    "clearCartModal": {
+      "alertDescription": "This action cannot be undone.",
+      "alertTitle": "Warning",
+      "cancelText": "Cancel",
+      "confirmText": "Clear Cart",
+      "description": "Are you sure you want to clear all items from your cart?",
+      "title": "Clear Cart"
+    },
+    "closedStores": {
+      "description": "You cannot checkout items from closed stores: {{stores}}. Please remove them before proceeding.",
+      "title": "Some stores are closed"
+    },
+    "deliveryCharges": "Delivery Charges",
+    "freeShipping": "Free",
+    "distanceCharges": "Distance Charges",
+    "dropOffFee": "Drop-off Fee",
+    "error_console": "Error while creating the order!",
+    "error_title": "Error while placing order!",
+    "estimatedDelivery": "Estimated Delivery",
+    "handlingCharges": "Handling Charges",
+    "itemsTotal": "Items Total",
+    "noAddressSelected": {
+      "description": "Please select a delivery address to proceed",
+      "title": "No Address Selected"
+    },
+    "no_address": "No address selected for checkout.",
+    "proceedToCheckout": "Proceed to Checkout",
+    "promo": "Promo",
+    "rushDelivery": "Rush Delivery",
+    "rushDeliveryDescription": "Express Service",
+    "selectAddressToCheckRushDelivery": "Select an address to see if Rush Delivery is available",
+    "selectAddressToEnableRush": "Select an address to enable Rush Delivery",
+    "stores": "Stores",
+    "success": "Order placed successfully!",
+    "totalAmount": "Total Amount",
+    "useWalletBalance": "Use Wallet Balance",
+    "walletAmountUsed": "Wallet Amount to be Used",
+    "yourOrder": "Your Order",
+    "flutterwave_link_invalid": "Invalid Payment Link",
+    "flutterwave_link_error_message": "The Flutterwave payment link is missing or invalid. Please try again.",
+    "cashbackReward": "You will receive this as cashback",
+    "remainingWalletBalance": "Remaining Wallet Balance",
+    "payWithWallet": "Pay with Wallet",
+    "allPricesIncludeTaxes": "All prices include taxes",
+    "failed": {
+      "title": "Payment Failed",
+      "description": "Unable to process your payment. Please try again."
+    },
+    "validation": {
+      "multipleStores": "Please split your order. We can only process items from one store at a time.",
+      "maxItemsExceeded": "Limit reached ({{maxItems}} items). Please remove {{currentItems}} items to continue.",
+      "minCartAmount": "Add {{currencySymbol}}{{remainingAmount}} more to reach the {{currencySymbol}}{{minAmount}} minimum checkout.",
+      "title": "Cannot proceed to checkout",
+      "pickupSingleStoreOnly": "Self pick-up is only available for single-store orders."
+    },
+    "attachmentsRequired": {
+      "title": "Attachments Required",
+      "description": "Please upload required attachments for: {{products}}"
+    }
+  },
+  "general": {
+    "error": {
+      "title": "Something Went Wrong",
+      "somethingWentWrong": "An unexpected error occurred. Please try again later."
+    }
+  },
+  "choices": "{{count}} Choices",
+  "choose_active_offers": "Choose from {{count}} active offers to save more!",
+  "clear_all": "Clear all",
+  "clear_search": "Clear search",
+  "close": "Close",
+  "compareWithOthers": "Compare With Others",
+  "completed": "Completed",
+  "confirm_cancel_item": "Confirm Item Cancellation",
+  "confirm_cancel_item_desc": "Are you sure you want to cancel this item? This action cannot be undone.",
+  "connecting": "Connecting...",
+  "contactSupport": "Contact Support",
+  "continue": "Continue",
+  "continue_with_google": "Continue with Google",
+  "continue_with_apple": "Continue with Apple",
+  "copy_to_clipboard": "Copy to clipboard",
+  "create": "Create",
+  "created": "Created",
+  "creating": "Creating...",
+  "currency": "Currency",
+  "date": "Date",
+  "decrease_quantity": "Decrease quantity",
+  "delete": "Delete",
+  "delivering_to": "Delivering to",
+  "delivering_to_your_location": "Delivering to your location",
+  "delivery": "Delivery",
+  "deliveryCharge": "Delivery Charge",
+  "deliveryFee": "Delivery Fee:",
+  "deliveryPartner": "Delivery Partner",
+  "deliveryReview": "Delivery Review",
+  "delivery_info": "Delivery Info",
+  "delivery_location": "Delivery Location",
+  "delivery_partner": "Delivery Partner",
+  "deposit": {
+    "buttonTitle": "Deposit",
+    "error": {
+      "descInvalid": "Details can only contain letters, numbers, and basic punctuation",
+      "descMax": "Details cannot exceed 500 characters",
+      "descMin": "Details must be at least 5 characters long",
+      "exceed": "Amount cannot exceed $1,000,000",
+      "invalid": "Amount must be a positive number",
+      "message": "Failed to add balance",
+      "positive": "Please enter a positive integer",
+      "title": "Error"
+    },
+    "input": {
+      "amount": {
+        "label": "Amount",
+        "placeholder": "Enter deposit amount"
+      },
+      "description": {
+        "label": "Description",
+        "placeholder": "Add any additional description about this deposit (at least 5 characters if provided)"
+      }
+    },
+    "modalTitle": "Deposit Funds",
+    "processingPayment": "Processing payment",
+    "submitButton": "Add Deposit",
+    "success": {
+      "message": "Balance added successfully",
+      "title": "Success"
+    },
+    "unexpected": {
+      "message": "Something went wrong. Please try again.",
+      "title": "Unexpected Error"
+    }
+  },
+  "deposit_error": {
+    "positive": "positive"
+  },
+  "deposit_title": "Deposit",
+  "description": "Description",
+  "description_invalid_characters": "Details can only contain letters, numbers, and basic punctuation",
+  "description_max_500": "Details cannot exceed 500 characters",
+  "description_min_5": "Details must be at least 5 characters long",
+  "description_placeholder": "Reason for withdrawal (min. 5 characters)",
+  "details": "Details",
+  "reorder": "Reorder",
+  "discount": "{{percent}}% off",
+  "edit": "Edit",
+  "edit_review": "Edit Review",
+  "email_check": {
+    "check_error": "Error checking email availability",
+    "email_exists": "An account with this email already exists",
+    "invalid_email": "Please enter a valid email address"
+  },
+  "end_reached": "You've reached the end! All {{total}} {{entityType}} loaded.",
+  "enter_min_2_chars": "Please enter at least 2 characters to search",
+  "enter_positive_integer": "Please enter a positive integer",
+  "enter_withdraw_amount": "Enter withdraw amount",
+  "error": "Error",
+  "error_loading_promo_codes": "Error Loading Promo Codes",
+  "estimatedDelivery": "Est. Delivery",
+  "estimatedDeliveryTime": "Est. Delivery Time",
+  "excellent": "Excellent",
+  "expired": "Expired",
+  "express_rushDelivery": "Rush Delivery",
+  "express_rushDeliveryDescription": "Get your order faster with priority handling",
+  "failed": "Failed",
+  "failed_to_update_location": "Failed to update location",
+  "faqs": "FAQs",
+  "fetching_delivery_partner_info": "Fetching delivery partner info...",
+  "file_too_large": "File too large",
+  "footer": {
+    "bottom_bar": {
+      "powered_by": "Powered by"
+    },
+    "company_info": {
+      "quality": "Quality",
+      "secure": "Secure",
+      "secure_payments": "100% secure payments",
+      "trusted": "Trusted",
+      "trusted_customers": "Trusted by thousands of customers",
+      "wide_range": "Wide range of quality products"
+    },
+    "contact_info": {
+      "call_us": "Call Us",
+      "email_us": "Email Us",
+      "header": "Get In Touch"
+    },
+    "policies": {
+      "header": "Policies",
+      "privacy_policy": "Privacy Policy",
+      "return_refund_policy": "Return & Refund Policy",
+      "shipping_policy": "Shipping Policy",
+      "terms_conditions": "Terms & Conditions"
+    },
+    "quick_links": {
+      "about_us": "About Us",
+      "delivery_zones": "Delivery Zones",
+      "faqs": "FAQs",
+      "header": "Quick Links",
+      "order_now": "Order Now",
+      "stores": "Stores"
+    },
+    "social": {
+      "follow_us": "Follow Us"
+    }
+  },
+  "found": "found",
+  "freeAbove": "Free Above:",
+  "fulfillmentType": "Fulfillment Type",
+  "giftCard": "Gift Card",
+  "good": "Good",
+  "great_experience": "Great experience",
+  "guarantee": "Guarantee",
+  "home": {
+    "brands": {
+      "description": "Trusted by millions",
+      "title": "Featured Brands"
+    },
+    "categories": {
+      "description": "Explore wide range of categories",
+      "title": "Shop By Category"
+    },
+    "delivery": {
+      "button": "Order Now",
+      "features": {
+        "contact_free": "Contact-free delivery",
+        "packaging": "Secure packaging",
+        "tracking": "Real-time tracking"
+      },
+      "header": "Fast & Reliable",
+      "highlight": "Delivery",
+      "subtitle": "Safe, secure, and timely shipping for every order",
+      "title": "Fast & Reliable"
+    },
+    "products": {
+      "description": "Fresh deals curated for you",
+      "title": "Shop Products"
+    },
+    "recently_viewed": {
+      "description": "Continue where you left off",
+      "title": "Recently Viewed"
+    },
+    "stores": {
+      "description": "Explore trusted local vendors near you",
+      "title": "Browse Stores"
+    }
+  },
+  "home_title": "Home",
+  "how_would_you_rate": "How would you rate this {{type}}? *",
+  "image_limit_exceeded": "Image limit exceeded",
+  "image_size_limit_5mb": "Each image must be less than 5MB",
+  "images": "images",
+  "inclusiveTax": "( Include all taxes )",
+  "increase_quantity": "Increase quantity",
+  "invalid_file_type": "Invalid file type",
+  "invoice": "Invoice",
+  "item": "item",
+  "item_not_found": "Item not found",
+  "items": "items",
+  "itemsCount": "Items ({{count}})",
+  "its_okay": "It's okay",
+  "keep_typing": "Keep typing...",
+  "last_updated": "Last updated",
+  "list": "list",
+  "lists": "lists",
+  "browseStores": "Browse Stores",
+  "load_more": "Load More",
+  "loading": "Loading...",
+  "addons": "Addons",
+  "loading_available_offers": "Loading available offers...",
+  "loading_promo_codes": "Loading promo codes...",
+  "locationSelector": {
+    "cannotConfirm": "Cannot confirm location",
+    "checking": "Checking...",
+    "confirmLocation": "Confirm Location",
+    "currentLocation": "Current Location",
+    "deliveryAvailable": "Delivery Available",
+    "deliveryNotAvailable": "Delivery Not Available",
+    "deliveryNotAvailableDescription": "You can continue browsing or select a different location",
+    "errorChecking": "Error checking delivery zone",
+    "errorConfirming": "Error confirming location",
+    "errorProcessing": "Error processing location",
+    "getting": "Getting...",
+    "modalTitle": "Location Selector",
+    "pleaseConfirm": "Please Confirm Location to Continue !",
+    "selectLocation": "Select Location"
+  },
+  "login_modal": {
+    "aria": {
+      "hide_password": "Hide password",
+      "show_password": "Show password"
+    },
+    "button": "Login",
+    "create_account": "Create Account",
+    "email_label": "Email Address",
+    "email_placeholder": "Enter your email",
+    "errors": {
+      "email_not_registered": "This email is not registered yet!",
+      "email_verify_failed": "Unable to verify email. Please try again.",
+      "mobile_not_registered": "This mobile number is not registered yet.",
+      "phone_not_registered_title": "Number Not Registered",
+      "invalid_phone_title": "Invalid Phone Number",
+      "invalid_phone_desc": "Please enter a valid phone number",
+      "firebase_error_title": "Firebase Error",
+      "firebase_error_desc": "Firebase is not initialized. Please refresh the page.",
+      "invalid_otp_title": "Invalid OTP",
+      "invalid_otp_desc": "Please enter a valid 6-digit OTP",
+      "verification_error_title": "Verification Error",
+      "verification_error_desc": "OTP verification failed. Please try again.",
+      "verification_failed_title": "Verification Failed"
+    },
+    "forgot_password": "Forgot password?",
+    "login_failed_toast": "Invalid email or password. Please try again.",
+    "login_success_toast": "Logged in successfully!",
+    "no_account": "Don't have an account?",
+    "or": "OR",
+    "password_label": "Password",
+    "password_placeholder": "Enter your password",
+    "remember_me": "Remember me",
+    "sign_in": "Sign In",
+    "welcome_subtitle": "Sign in to your account to continue",
+    "welcome_title": "Welcome Back",
+    "email_tab": "Email",
+    "mobile_tab": "Mobile",
+    "otp_tab": "OTP",
+    "mobile_placeholder": "Enter 10-digit mobile number",
+    "mobile_label": "Mobile Number",
+    "phone_label": "Phone Number",
+    "phone_placeholder": "Enter your phone number",
+    "send_otp": "Send OTP",
+    "send_verification": "Send Verification Code",
+    "otp_placeholder": "Enter OTP",
+    "verify_and_login": "Verify & Login",
+    "back_to_phone": "Back to Phone",
+    "did_not_receive_code": "Didn't receive the code?",
+    "resend_code": "Resend Code"
+  },
+  "logout_alert_description": "You'll need to sign in to continue where you left off.",
+  "logout_alert_title": "You're about to sign out",
+  "logout_confirm": "Sign Out",
+  "logout_subtitle": "Confirm your logout action",
+  "logout_title": "Sign Out",
+  "logout_toast": {
+    "success_desc": "You have been successfully logged out",
+    "success_title": "Logout Successful"
+  },
+  "maintenance": {
+    "estimatedTimeDescription": "We expect to be back in a few moments",
+    "estimatedTimeTitle": "Estimated Time",
+    "footerMessage": "Thank you for your patience! 🙏",
+    "heading": "We'll be back soon!",
+    "metaDescription": "Website is currently under maintenance. We'll be back soon!",
+    "pageTitle": "Site Under Maintenance",
+    "subheading": "Our website is currently undergoing scheduled maintenance to serve you better. We'll be back online shortly!",
+    "workDescription": "Upgrading our systems for better performance",
+    "workTitle": "What we're doing"
+  },
+  "maxSave": "Max save",
+  "max_5_images_5mb_each": "Max 5 images, 5MB each",
+  "max_quantity_error_description": "You can order up to {{max}} item(s) only.",
+  "max_quantity_error_title": "Maximum Quantity Exceeded",
+  "maximum_5_images_allowed": "Maximum 5 images allowed",
+  "minOrder": "Min order",
+  "quantityStepSize": "Step Size",
+  "minStep": "Min: {{min}}{{stepText}}",
+  "min_quantity_error_description": "You must order at least {{min}} item(s).",
+  "min_quantity_error_title": "Minimum Quantity Reached",
+  "mins": "Mins",
+  "more_options": "+{{count}} more options",
+  "move_button": "Move",
+  "move_error": "Something went wrong while moving the item",
+  "move_failed": "Failed to move item",
+  "myOrders": "My Orders",
+  "na": "U/A",
+  "nav": {
+    "about_us": "About Us",
+    "brands": "Brands",
+    "contact_us": "Contact Us",
+    "faqs": "FAQs",
+    "home": "Home",
+    "products": "Products"
+  },
+  "network_error": "Network Error",
+  "network_error_description": "Something went wrong while submitting your review. Please try again later.",
+  "network_error_title": "Network Error",
+  "no": "No",
+  "noSellerReview": "No review given by this seller yet",
+  "no_active_promo_codes": "No Active Promo Codes",
+  "no_items": "No items found in this order.",
+  "no_products_available": "No Products are currently Available at your location.",
+  "no_products_found": "No products found",
+  "no_products_found_message": "We couldn't find any products matching \"{{query}}\"",
+  "no_transactions_found": "No transactions found",
+  "notAvailable": "Not Available",
+  "offline": {
+    "connection_lost": "Connection Lost",
+    "description": "Please check your internet connection and try again. Make sure you're connected to a network.",
+    "help_text": "If the problem persists, check your network settings or contact your network administrator.",
+    "no_internet": "No Internet Connection",
+    "retrying": "Retrying...",
+    "try_again": "Try Again"
+  },
+  "on_the_way": "On the way",
+  "online": "Online",
+  "only_images_allowed": "Only images are allowed",
+  "opens_at": "Opens at {{time}}",
+  "optional": "Optional",
+  "order": "Order",
+  "orderId": "Order: {{id}}",
+  "orderItems": "Order Items",
+  "orderNote": "Order Note",
+  "orderSummary": "Order Summary",
+  "finalTotal": "Final Total",
+  "totalPayable": "Total Payable",
+
+  "order_destination": "Order destination",
+  "order_id": "Order ID",
+  "orders_empty_button": "Start Shopping",
+  "orders_empty_description": "You haven't placed any orders yet.",
+  "orders_empty_title": "No Orders Found",
+  "origin": "Origin",
+  "other": "Other",
+  "otp": "OTP",
+  "out_of_stock": "Out of Stock",
+  "out_of_stock_message": "This item is currently unavailable. Please check back soon.",
+  "outstanding_quality": "Outstanding quality",
+  "pageTitle": {
+    "404": "Page Not Found",
+    "about-us": "About Us",
+    "addresses": "Addresses",
+    "api": "API",
+    "brands": "Brands",
+    "cart": "Cart",
+    "categories": "Categories",
+    "delivery-zones": "Delivery Zones",
+    "faqs": "FAQs",
+    "feature-sections": "Feature Sections",
+    "forgot-password": "Forgot Password",
+    "home": "Home",
+    "my-account": "My Account",
+    "orders": "Orders",
+    "privacy-policy": "Privacy Policy",
+    "products": "Products",
+    "refer-and-earn": "Refer & Earn",
+    "return-refund-policy": "Return & Refund Policy",
+    "search": "Search Results",
+    "shopping-list": "Shopping List",
+    "shipping-policy": "Shipping Policy",
+    "store-products": "Store Products",
+    "stores": "Stores",
+    "terms-and-conditions": "Terms & Conditions",
+    "transactions": "Transactions",
+    "wallet": "Wallet",
+    "wishlists": "Wishlists",
+    "seller-registration": "Seller Registration"
+  },
+  "pages": {
+    "aboutUs": {
+      "breadcrumb": "About Us",
+      "description": "Learn more about our company, mission, and values.",
+      "notAvailable": "Not Available",
+      "title": "About Us"
+    },
+    "addresses": {
+      "addFirst": "Add Your First Address",
+      "addNew": "Add New",
+      "errorLoading": "Error loading addresses",
+      "myAddresses": "My Addresses",
+      "noAddresses": "No addresses saved yet",
+      "noAddressesDesc": "Add your first address to get started with faster checkout and delivery.",
+      "showingRange": "Showing {{from}} to {{to}} of {{total}} addresses",
+      "subtitle": "Manage your address information for faster checkout and delivery",
+      "total": "total",
+      "tryAgain": "Try Again"
+    },
+    "brandProducts": {
+      "breadcrumb": {
+        "brands": "Brands"
+      },
+      "highlight": "{{count}} Products",
+      "metaDescription": "Browse {{count}} products from {{brand}}.",
+      "metaTitle": "Products - Shop by Choice",
+      "noProducts": {
+        "description": "No Products are currently available in this Brand.",
+        "title": "No Products Available"
+      },
+      "subtitle": "Browse products from {{brand}}.",
+      "title": "{{brand}} Products"
+    },
+    "brands": {
+      "breadcrumb": {
+        "brands": "Brands"
+      },
+      "highlight": "{{count}} Brands",
+      "infiniteScroll": "Brands",
+      "metaDescription": "Browse all {{count}} brands available in our store.",
+      "metaTitle": "Brands - Explore All",
+      "noBrands": {
+        "description": "Currently, there are no brands to display.",
+        "title": "No Brands Available"
+      },
+      "subtitle": "Discover our complete collection of brands",
+      "title": "All Brands"
+    },
+    "categories": {
+      "highlight": "Categories",
+      "infiniteScroll": "Categories",
+      "noCategories": {
+        "description": "No categories are currently available.",
+        "title": "No Categories Available"
+      },
+      "subtitle": "Discover our complete collection of",
+      "title": "All Categories"
+    },
+    "categoryProducts": {
+      "highlight": "Products",
+      "infiniteScroll": "Products",
+      "metaDescription": "Browse {{count}} products from {{category}}.",
+      "metaTitle": "{{category}} Products - Shop by Choice",
+      "noProducts": {
+        "description": "This category is currently empty. Products will appear here once they are added.",
+        "title": "No Products in This Category"
+      },
+      "subtitle": "Browse products from {{category}}.",
+      "title": "{{category}} Products"
+    },
+    "deliveryZoneDetail": {
+      "boundaryPoints": "Boundary Points",
+      "bufferTime": "Buffer Time",
+      "centerCoords": "Center Coordinates",
+      "coverageArea": "Coverage Area",
+      "coverageDetails": "Coverage Details",
+      "deliveryFees": "Delivery Fees",
+      "deliveryTimes": "Delivery Times",
+      "errorLoading": "Error Loading Zone",
+      "errorLoadingDesc": "There was an error loading the delivery zone.",
+      "freeDeliveryAbove": "Free Delivery Above",
+      "handlingFee": "Handling Fee",
+      "loadingDescription": "Please wait while we fetch the delivery zone information.",
+      "loadingTitle": "Loading Zone Details",
+      "metaDescription": "metaDescription",
+      "perKmCharge": "Per KM Charge",
+      "perStoreFee": "Per Store Fee",
+      "radius": "Radius",
+      "regularDelivery": "Regular Delivery",
+      "regularTimePerKm": "Regular Time Per KM",
+      "rushDelivery": "Rush Delivery",
+      "rushTimePerKm": "Rush Time Per KM",
+      "subtitle": "View details about delivery zone",
+      "titleSuffix": "Delivery Zone",
+      "zoneInfo": "Zone Information",
+      "zoneNotFound": "Zone Not Found",
+      "zoneNotFoundDesc": "The delivery zone you're looking for doesn't exist."
+    },
+    "deliveryZones": {
+      "noZonesDescription": "No delivery zones are currently available.",
+      "noZonesTitle": "No Delivery Zones Available",
+      "subtitle": "Discover our service areas",
+      "title": "Delivery Zones",
+      "totalZones": "zones"
+    },
+    "faqs": {
+      "searchPlaceholder": "Search FAQs...",
+      "subtitle": "Find answers to common questions about our services",
+      "title": "Frequently Asked Questions"
+    },
+    "featureSection": {
+      "defaultTitle": "Shop by Choice",
+      "metaDescription": "Browse all {{count}} products from {{title}}.",
+      "products": "Products",
+      "subtitle": "Browse all products from",
+      "titleSuffix": "Shop by Choice"
+    },
+    "featureSections": {
+      "noSections": "No featured sections available at the moment.",
+      "sections": "Sections",
+      "subtitle": "Browse our curated collections",
+      "title": "Featured Sections"
+    },
+    "forgotPassword": {
+      "checkEmail": "We've sent a password reset link to {{email}}",
+      "emailLabel": "Email Address",
+      "emailPlaceholder": "Enter your email address",
+      "emailSent": "Email Sent Successfully!",
+      "enterEmail": "Please enter your email address",
+      "error": "An error occurred. Please try again.",
+      "failed": "Failed to send reset email",
+      "goHome": "Go to Home Now",
+      "instructions": "Please check your email and follow the instructions to reset your password.",
+      "invalidEmail": "* Please enter a valid email",
+      "redirecting": "Redirecting to home page in:",
+      "rememberPassword": "Remember your password?",
+      "sendLink": "Send Reset Link",
+      "sending": "Sending...",
+      "signIn": "Sign in",
+      "subtitle": "No worries! Enter your email address and we'll send you a link to reset your password.",
+      "title": "Forgot Password?",
+      "unknownError": "Unknown error occurred."
+    },
+    "myAccount": {
+      "alertDesc": "This will permanently remove your account.",
+      "alertTitle": "Permanent Deletion",
+      "confirmText": "Delete",
+      "contactInfo": "Contact Information",
+      "deleteAccount": "Delete Account",
+      "deleteDesc": "This action cannot be undone",
+      "headerSubtitle": "Manage your personal information and account settings",
+      "headerTitle": "My Profile",
+      "labels": {
+        "email": "Email Address",
+        "fullName": "Full Name",
+        "memberSince": "Member Since",
+        "phone": "Phone Number",
+        "referral": "Friend's Referral",
+        "verified": "Verified",
+        "notVerified": "Unverified",
+        "resendVerification": "Resend Verification",
+        "emailUpdateSuccess": "Verification link sent to your new email.",
+        "update": "Update Email",
+        "updatePhone": "Update Phone",
+        "verify": "Verify",
+        "enterOtp": "Enter OTP",
+        "otpSentTitle": "OTP Sent",
+        "otpSentDesc": "Verification code sent to your mobile.",
+        "phoneUpdateSuccess": "Phone number updated and verified successfully.",
+        "otpSentTo": "Enter the OTP sent to"
+      },
+      "personalInfo": "Personal Information",
+      "saveChanges": "Save Changes",
+      "toasts": {
+        "deleteFailedDesc": "We encountered an issue while trying to delete your account.",
+        "deleteFailedTitle": "Account Deletion Failed",
+        "deleteSuccessDesc": "Your account has been permanently removed. Thank you!",
+        "deleteSuccessTitle": "Account Deleted Successfully",
+        "demoModeDesc": "This action is not allowed in demo mode",
+        "demoModeTitle": "Demo Mode",
+        "errorDesc": "An error occurred. Please try again later.",
+        "errorTitle": "Unexpected Error",
+        "successDesc": "Your data has been updated successfully.",
+        "successTitle": "Success",
+        "updateFailedDesc": "There was an issue updating your data.",
+        "updateFailedTitle": "Update Failed"
+      }
+    },
+    "shoppingList": {
+      "headerTitle": "Shopping List",
+      "headerSubtitle": "Turn keyword ideas into ready-to-shop product lists.",
+      "keywordInputLabel": "Add keywords",
+      "keywordInputPlaceholder": "e.g. organic milk, dark chocolate, fresh bread",
+      "keywordHelper": "Type a keyword and press Enter or add multiple using commas.",
+      "addKeyword": "Add keyword",
+      "fetchProducts": "Find products",
+      "refreshResults": "Refresh results",
+      "clearAll": "Clear all",
+      "keywordsCount": "{{count}} keyword(s) ready",
+      "emptyKeywordsTitle": "Start with a keyword",
+      "emptyKeywordsDescription": "Add at least one keyword to build a personalized shopping list.",
+      "locationMissing": "Set your delivery location to get accurate availability.",
+      "errorTitle": "Unable to load products",
+      "errorDescription": "Please try again or adjust your keywords.",
+      "emptyResultsTitle": "No products found",
+      "emptyResultsDescription": "Try different keywords or broaden your search terms.",
+      "sectionTitle": "Results for “{{keyword}}”",
+      "productsCount": "{{count}} products"
+    },
+    "notFound": {
+      "heading": "Oops! Page not found",
+      "home": {
+        "subtitle": "There's no place like home...",
+        "title": "Home Page"
+      },
+      "subheading": "It seems the page you're looking for doesn't exist. Don't worry, let's get you back on track!"
+    },
+    "order": {
+      "backToList": "Back to Orders",
+      "details": "Order Details",
+      "detailsSubtitle": "View your order information and status",
+      "errorLoading": "Error Loading Order",
+      "loading": "Loading order details...",
+      "notFound": "Order Not Found",
+      "notFoundDesc": "The order you're looking for doesn't exist or has been removed."
+    },
+    "ordersPage": {
+      "emptyMessage": "You don't have any orders yet. Start shopping to see them here.",
+      "emptyTitle": "No Orders Found",
+      "errorTitle": "Error Loading Orders",
+      "loading": "Loading your orders...",
+      "subtitle": "Manage your Order information and Status",
+      "tryAgain": "Try Again",
+      "reorderSuccess": "Order items added to cart successfully!",
+      "reorderFailed": "Failed to reorder. Please try again."
+    },
+    "privacyPolicy": {
+      "description": "Learn about your privacy rights and how your data is handled.",
+      "notAvailable": "Not Available",
+      "title": "Privacy Policy"
+    },
+    "referAndEarnPage": {
+      "header": {
+        "subtitle": "Invite your friends to join and get the reward",
+        "title": "Refer & Earn"
+      },
+      "hero": {
+        "title": "Refer your friends & earn rewards",
+        "description": "Invite your friends using your referral code and earn rewards when they sign up and place their first order.",
+        "earn": "Earn up to {{rewardCap}} in rewards!",
+        "instantRewards": "Instant Rewards",
+        "perReferral": "Per Referral",
+        "referrals": "Referrals",
+        "friendsCodeLabel": "Friend's Code",
+        "rewardLine": "Earn up to {{rewardCap}}"
+      },
+      "howItWorks": {
+        "bonusDescription": "Your friend gets {{refereeValue}} discount on their first order.",
+        "bonusRewards": "Bonus Rewards!",
+        "stepDescription": "Step description here.",
+        "stepTitle": "Step Title {{step}}",
+        "title": "How it works",
+        "steps": {
+          "shareCode": {
+            "title": "Share your code",
+            "description": "Send your referral code to friends"
+          },
+          "friendSignsUp": {
+            "title": "Friend signs up",
+            "description": "They register using your referral code"
+          },
+          "earnRewards": {
+            "title": "Earn rewards",
+            "description": "When they complete their first order, you earn rewards (up to {{rewardCap}} total)"
+          }
+        }
+      },
+      "progress": {
+        "nextMilestone": "Progress to next milestone",
+        "referMore": "Refer {{remaining}} more friends to unlock a {{currency}}{{bonus}} bonus!",
+        "subtitle": "You're doing great! Keep sharing to earn more rewards.",
+        "title": "Referral Progress"
+      },
+      "referralCode": {
+        "copySuccess": "Copied!",
+        "referralLink": "Referral Link",
+        "shareSocial": "Share on Social Media",
+        "title": "Share Your Code",
+        "yourCode": "Your Referral Code",
+        "helper": "Copy this code and share it with friends."
+      },
+      "stats": {
+        "pending": "Pending",
+        "successful": "Successful",
+        "totalEarnings": "Total Earnings",
+        "totalReferrals": "Total Referrals"
+      }
+    },
+    "returnRefundPolicy": {
+      "description": "Learn about our return process and refund conditions.",
+      "title": "Return & Refund Policy"
+    },
+    "shippingPolicy": {
+      "description": "Learn about our shipping methods, delivery times, and costs.",
+      "title": "Shipping Policy"
+    },
+    "storeProductsPage": {
+      "breadcrumbs": {
+        "store": "Store",
+        "stores": "Stores"
+      },
+      "highlight": "{{count}} Products",
+      "loadMoreButton": "Load More",
+      "noProducts": {
+        "description": "No products are currently available in this store.",
+        "title": "No Products Available"
+      },
+      "refetchButton": "Refetch Products",
+      "skeleton": "Loading products...",
+      "subtitle": "Browse all products from this store",
+      "title": "Store Products"
+    },
+    "stores": {
+      "highlight": "{{count}} Stores",
+      "noStores": {
+        "description": "Currently, there are no stores to display.",
+        "title": "No Stores Available"
+      },
+      "search_placeholder": "Search stores...",
+      "subtitle": "Explore our complete collection of",
+      "title": "All Stores"
+    },
+    "termsAndConditions": {
+      "breadcrumb": "Terms of Service",
+      "description": "The rules and conditions for using our services.",
+      "notAvailable": "Not Available",
+      "title": "Terms of Service"
+    },
+    "transactionsPage": {
+      "header": {
+        "subtitle": "See your Transactions information and Status",
+        "title": "My Transactions"
+      },
+      "totalFound": "{{total}} Found"
+    },
+    "walletPage": {
+      "header": {
+        "subtitle": "Manage your wallet balance, track transactions, and view credits.",
+        "title": "My Wallet"
+      },
+      "table": {
+        "title": "Wallet Transactions"
+      },
+      "totalFound": "{{total}} Transactions Found"
+    },
+    "wishlistsPage": {
+      "confirmDelete": "Are you sure you want to delete \"{{title}}\"? This action cannot be undone.",
+      "errors": {
+        "deleteFailed": "Failed to delete wishlist",
+        "fetchDetails": "Failed to fetch wishlist details",
+        "fetchFailed": "Failed to fetch wishlists",
+        "invalidTitle": "Please enter a valid wishlist name",
+        "network": "Network error occurred",
+        "removeItem": "Failed to remove item from wishlist",
+        "updateFailed": "Failed to update wishlist"
+      }
+    },
+    "sellerRegister": {
+      "pageTitle": "Seller Registration",
+      "pageSubtitle": "Register as a seller and grow your business with us.",
+      "personalInfo": "Personal Information",
+      "requiredDocs": "Required Documents",
+      "businessAddress": "Business Address",
+      "form": {
+        "sellerName": "Seller Name",
+        "mobile": "Mobile Number",
+        "email": "Email Address",
+        "password": "Password",
+        "confirmPassword": "Confirm Password",
+        "address": "Address",
+        "city": "City",
+        "landmark": "Landmark",
+        "state": "State",
+        "zipcode": "Zipcode",
+        "country": "Country",
+        "latitude": "Latitude",
+        "longitude": "Longitude"
+      },
+      "placeholder": {
+        "sellerName": "Enter your full name",
+        "mobile": "Enter your mobile number",
+        "email": "Enter your email address",
+        "address": "e.g. 123, Shree Complex, Station Road",
+        "city": "e.g. Bhuj",
+        "landmark": "e.g. Near Bus Stand",
+        "state": "e.g. Gujarat",
+        "zipcode": "e.g. 370001",
+        "country": "e.g. India",
+        "latitude": "e.g. 23.241999",
+        "longitude": "e.g. 69.666881"
+      },
+      "docs": {
+        "businessLicense": "Business License",
+        "articlesOfIncorporation": "Articles of Incorporation",
+        "nationalId": "National ID Card",
+        "authorizedSignature": "Authorized Signature"
+      },
+      "button": {
+        "chooseFile": "Choose File",
+        "register": "Register",
+        "reset": "Reset"
+      },
+      "toast": {
+        "invalidFileTitle": "Invalid File Type",
+        "invalidFileDescription": "Only JPEG, PNG, JPG, or WEBP files are allowed.",
+        "validationErrorTitle": "Validation Error",
+        "validationErrorDesc": "Please fix highlighted fields before submitting.",
+        "successTitle": "Success!",
+        "successDesc": "Your seller registration was successful.",
+        "errorTitle": "Error",
+        "genericErrorDesc": "Registration failed. Please try again.",
+        "unexpectedError": "An unexpected error occurred. Please try again later.",
+        "missingDocumentsTitle": "Missing Documents",
+        "missingDocumentsDesc": "Please upload: {{files}}",
+        "invalidFileTypeTitle": "Invalid File Type",
+        "invalidFileTypeDesc": "Only JPEG, PNG, JPG, or WEBP allowed. Invalid: {{types}}"
+      },
+      "error": {
+        "required": "Required",
+        "passwordMismatch": "Passwords must match",
+        "invalidFile": "Invalid file type"
+      }
+    },
+    "enhancedSellerMarketing": {
+      "hero": {
+        "badge": "Elevate Your Brand With Us",
+        "titleMain": "Empowering Your Success with",
+        "titleAccent": "Digital Expertise",
+        "description": "Designed for hyperlocal commerce. Enable online ordering, manage your catalog, and connect fulfillment options that fit your operations.",
+        "explore": "Explore More",
+        "registerNow": "Register Now",
+        "bubble": {
+          "title": "Toolkit",
+          "subtitle": "Seller Tools"
+        },
+        "chips": {
+          "easyOnboarding": "Easy Onboarding",
+          "deliveryPartnerSupport": "Delivery Partner Support",
+          "reliableSettlements": "Reliable Settlements"
+        }
+      },
+      "marquee": {
+        "contentMarketing": "Content Marketing",
+        "socialMediaMarketing": "Social Media Marketing",
+        "seo": "Search Engine Optimization",
+        "businessGrowth": "Business Growth"
+      },
+      "about": {
+        "badge": "About Us",
+        "titleMain": "Empowering Your Success with",
+        "titleAccent": "Digital Expertise",
+        "description": "We support local commerce by connecting sellers with nearby customers through hyperlocal fulfillment. The platform helps businesses grow while simplifying logistics, payments, and technology.",
+        "button": "About Us",
+        "metrics": {
+          "marketingGrowth": "Marketing & Business Growth",
+          "creativityInnovation": "Creativity & Innovation",
+          "businessFinanceMgmt": "Business & Financial Management"
+        }
+      },
+      "benefits": {
+        "badge": "Why Choose Us",
+        "title": "Everything You Need to Succeed",
+        "description": "Focus on selling great products while we handle the rest",
+        "items": {
+          "deliveryIntegrations": {
+            "title": "Delivery Integrations",
+            "desc": "Works with your preferred delivery partners",
+            "metric": "Flexible"
+          },
+          "flexibleOnboarding": {
+            "title": "Flexible Onboarding",
+            "desc": "Start quickly with configurable requirements",
+            "metric": "Configurable"
+          },
+          "localFulfillment": {
+            "title": "Local Fulfillment",
+            "desc": "Optimized for nearby orders",
+            "metric": "Hyperlocal"
+          },
+          "businessInsights": {
+            "title": "Business Insights",
+            "desc": "Analytics to understand performance",
+            "metric": "Insights"
+          },
+          "trustedPayments": {
+            "title": "Trusted Payments",
+            "desc": "Support for secure settlement flows",
+            "metric": "Secure"
+          },
+          "customerReach": {
+            "title": "Customer Reach",
+            "desc": "Connect with local buyers",
+            "metric": "Local"
+          }
+        }
+      },
+      "how": {
+        "title": "Start Selling in 3 Simple Steps",
+        "subtitle": "Get started quickly",
+        "steps": {
+          "register": {
+            "title": "Register & Verify",
+            "desc": "Simple registration and verification"
+          },
+          "list": {
+            "title": "List Products",
+            "desc": "Add products with our easy tools"
+          },
+          "start": {
+            "title": "Start Selling",
+            "desc": "Receive orders, fulfill via partners or your own team"
+          }
+        }
+      },
+      "fulfillment": {
+        "title": "Flexible Fulfillment Options",
+        "desc": "Integrate your preferred delivery partners or use your own team. Configure experiences to match your operations.",
+        "items": {
+          "partnerIntegrations": {
+            "title": "Partner Integrations",
+            "desc": "Connect third-party providers"
+          },
+          "realtimeTracking": {
+            "title": "Real-time Tracking",
+            "desc": "Track order status"
+          },
+          "policies": {
+            "title": "Configurable Policies",
+            "desc": "Set fees, SLA, and rules"
+          }
+        }
+      },
+      "testimonials": {
+        "title": "What Our Sellers Say",
+        "subtitle": "Real stories from real sellers",
+        "items": {
+          "localSeller": {
+            "name": "Local Seller",
+            "business": "Grocery",
+            "text": "Onboarding and catalog management were straightforward."
+          },
+          "bakeryOwner": {
+            "name": "Bakery Owner",
+            "business": "Bakery",
+            "text": "Flexible delivery options fit our operations."
+          },
+          "electronicsShop": {
+            "name": "Electronics Shop",
+            "business": "Electronics",
+            "text": "Insights helped us optimize processes."
+          }
+        }
+      },
+      "cta": {
+        "title": "Ready to Start Your Success Story?",
+        "desc": "Get started by submitting your business details below.",
+        "registerLabel": "📋 Register Your Business Below"
+      }
+    }
+  },
+  "partially_refunded": "Partially Refunded",
+  "payment": "Payment",
+  "paymentDetails": "Payment Details",
+  "paymentMethod": "Payment Method",
+  "paymentStatus": "Payment Status",
+  "payment_id": "Payment ID",
+  "payment_method": "Payment Method",
+  "payment_status": "Payment Status",
+  "payments": {
+    "cod": {
+      "name": "Cash On Delivery",
+      "tagline": "Pay at your door."
+    },
+    "directBankTransfer": {
+      "name": "Direct Bank Transfer",
+      "tagline": "Transfer directly to our bank account."
+    },
+    "flutterwave": {
+      "name": "Pay with Flutterwave",
+      "tagline": "Fast and secure payments."
+    },
+    "paypal": {
+      "name": "Pay with PayPal",
+      "tagline": "Worldwide trusted payment solution."
+    },
+    "paystack": {
+      "name": "Pay with Paystack",
+      "tagline": "Smart and simple payments."
+    },
+    "phonepe": {
+      "name": "Pay with PhonePe",
+      "tagline": "UPI and wallet payments made easy."
+    },
+    "razorpay": {
+      "name": "Pay with Razorpay",
+      "tagline": "India's most popular gateway."
+    },
+    "stripe": {
+      "name": "Pay with Stripe",
+      "tagline": "Secure card payments globally."
+    }
+  },
+  "pending": "Pending",
+  "phoneInput": {
+    "error": {
+      "invalidLength": "Phone number must be {{max}} digits long",
+      "required": "Please enter your Mobile"
+    },
+    "label": "Mobile",
+    "placeholder": "Enter your phone number"
+  },
+  "phone_check": {
+    "check_error": "Error checking phone availability",
+    "invalid_phone": "Please enter a valid phone number",
+    "phone_exists": "An account with this phone number already exists"
+  },
+  "placedOn": "Placed on",
+  "please_login": "Please login to continue!",
+  "please_select_payment_method": "Please select the payment method!",
+  "poor_quality": "Poor quality",
+  "price": "Price",
+  "unit_price": "Unit Price",
+  "productFaqs": {
+    "error": "Error loading FAQs.",
+    "faqAriaLabel": "FAQ",
+    "noData": "No FAQs available for this product.",
+    "searchAriaLabel": "Search FAQs",
+    "searchPlaceholder": "Search FAQs...",
+    "subtitle": "Showing {{count}} results from a total of {{total}} FAQs.",
+    "title": "FAQs",
+    "noFaqsYet": "No FAQs Available",
+    "noFaqsDescription": "There are currently no questions asked for this product.",
+    "noSearchResults": "No FAQ matches your search. Try different keywords."
+  },
+  "productFilter": {
+    "applyFilters": "Apply Filters",
+    "clearAll": "Clear All",
+    "filters": "Filters",
+    "filtersAndSort": "Filters & Sort",
+    "productsCount": "{{count}} products",
+    "productsFound": "{{count}} products found",
+    "sort": {
+      "relevance": "Relevance",
+      "priceLowToHigh": "Price: Low to High",
+      "priceHighToLow": "Price: High to Low",
+      "highestRated": "Highest Rated",
+      "bestSeller": "Best Seller",
+      "featured": "Featured",
+      "recommended": "Recommended"
+    },
+    "sortBy": "Sort by"
+  },
+  "productReviews": {
+    "error": "Error loading reviews.",
+    "noData": "No reviews available for this product.",
+    "reviewImageAlt": "Review Image {{index}}",
+    "sort": {
+      "latest": "Latest",
+      "oldest": "Oldest"
+    },
+    "sortAriaLabel": "Sort by",
+    "subtitle": "Showing {{count}} results from a total of {{total}} reviews.",
+    "title": "Rating & Reviews ({{count}})",
+    "noReviewsYet": "No Reviews Yet",
+    "noReviewsDescription": "This product has not received any reviews yet. Be the first to share your experience!"
+  },
+  "product_image_alt": "Product Image",
+  "product_modal": {
+    "add_to_cart_title": "Add to Cart",
+    "cancel": "Cancel",
+    "constraints": "Min: {{min}}, Step: {{step}}",
+    "discount_percent": "{{percent}}% OFF",
+    "in_cart": "in cart",
+    "low_stock_alert": "Hurry! Only {{stock}} left.",
+    "out_of_stock": "Out of Stock",
+    "qty": "Qty",
+    "save": "Save {{amount}}",
+    "select_options": "Select Options",
+    "sku": "SKU: {{sku}}",
+    "stock": "Stock: {{stock}} available",
+    "subtotal": "Subtotal ({{count}} items)",
+    "total_savings": "Total Savings",
+    "untitled": "Untitled Product",
+    "addons_required_description": "Please select the required add-ons to continue.",
+    "addons_required_title": "Required Selections",
+    "required": "Required",
+    "more": "+ {{count}} more",
+    "step_of": "Step {{current}} of {{total}}",
+    "continue": "Continue",
+    "update_cart_item": "Update Item"
+  },
+  "products": "Products",
+  "products_count": "{{count}} products",
+  "profile": "Profile",
+  "profileBtn": {
+    "addresses": "Addresses",
+    "logout": "Log Out",
+    "myAccount": "My Account",
+    "myOrders": "My Orders",
+    "notifications": "Notifications",
+    "referAndEarn": "Refer & Earn",
+    "signedInAs": "Signed in as",
+    "transactions": "Transactions",
+    "wallet": "Wallet"
+  },
+  "promoCode": {
+    "applied": "Applied successfully",
+    "appliedSuccess": "Promo code applied successfully",
+    "error": "Failed to apply promo code. Please try again.",
+    "invalid": "Invalid promo code",
+    "invalidMessage": "PromoCode is Invalid kindly remove it.",
+    "placeholder": "Enter promo code",
+    "removed": "Promo code removed",
+    "sectionDescription": "Apply a promo code to get discounts",
+    "sectionTitle": "Promo Code",
+    "selectAddress": "Please select an address to apply it.",
+    "pleaseSelectAddress": "Please select an address before applying."
+  },
+  "promoDiscount": "Promo Discount",
+  "qty": "Qty",
+  "qtyInput": {
+    "maxLimitDescription": "You cannot order more than {{max}}",
+    "maxLimitTitle": "Maximum limit reached",
+    "minLimitDescription": "You cannot order less than {{min}}",
+    "minLimitTitle": "Minimum limit reached"
+  },
+  "quantity": "Quantity:",
+  "radius": "Radius:",
+  "rate_your_experience": "Rate Your Experience",
+  "rating": "{{ratings}} Rating",
+  "ratings": "ratings",
+  "recent_searches": "Recent Searches",
+  "refresh": "Refresh",
+  "refresh_location": "Refresh location",
+  "refunded": "Refunded",
+  "register_modal": {
+    "buttons": {
+      "back_to_details": "Back to Details",
+      "get_started": "Get Started",
+      "resend_code": "Resend Code",
+      "send_verification": "Send Verification Code",
+      "verify_create": "Verify & Create Account",
+      "verify": "Verify",
+      "verified": "Verified",
+      "verify_code": "Verify Code",
+      "register": "Create Account"
+    },
+    "fields": {
+      "confirmPassword": {
+        "label": "Confirm Password",
+        "placeholder": "Confirm password"
+      },
+      "email": {
+        "label": "Email",
+        "placeholder": "Enter your email"
+      },
+      "name": {
+        "label": "Full Name",
+        "placeholder": "Enter your name"
+      },
+      "otp": {
+        "errors": {
+          "required": "Please enter the verification code"
+        },
+        "placeholder": "Enter OTP"
+      },
+      "password": {
+        "description": "Must be 8+ characters",
+        "label": "Password",
+        "placeholder": "Enter password"
+      },
+      "phone": {
+        "label": "Phone",
+        "placeholder": "Enter your phone number"
+      },
+      "referralCode": {
+        "label": "Referral Code",
+        "placeholder": "Enter referral code"
+      }
+    },
+    "links": {
+      "login": "Login"
+    },
+    "messages": {
+      "account_created": "Account created successfully!",
+      "already_account": "Already have an account?",
+      "did_not_receive_code": "Didn't receive the code?",
+      "or": "OR",
+      "start_using": "Start using your account now"
+    },
+    "steps": {
+      "complete": {
+        "subtitle": "",
+        "title": "Success"
+      },
+      "details": {
+        "subtitle": "Enter your details to get started",
+        "title": "Sign Up"
+      },
+      "otp": {
+        "subtitle": "Enter the code sent to {{phoneNumber}}",
+        "title": "Verify Phone"
+      }
+    },
+    "toasts": {
+      "firebase_error": {
+        "description": "Firebase is not initialized. Please try again.",
+        "title": "Firebase Error"
+      },
+      "invalid_otp": {
+        "description": "Please enter a valid 6-digit verification code",
+        "title": "Invalid OTP"
+      },
+      "invalid_phone": {
+        "description": "Please enter a valid phone number",
+        "title": "Validation Error"
+      },
+      "validating_info": {
+        "description": "Validating your information...",
+        "title": "Please Wait"
+      },
+      "validation_error": {
+        "description": "Please fix all validation errors before continuing",
+        "title": "Validation Error"
+      },
+      "otp_sent": {
+        "description": "Verification code has been sent to your phone",
+        "title": "OTP Sent"
+      },
+      "otp_verified": {
+        "description": "Your phone number has been verified successfully",
+        "title": "OTP Verified"
+      },
+      "verification_error": {
+        "description": "Failed to verify OTP",
+        "title": "Verification Error"
+      }
+    }
+  },
+  "register_toast": {
+    "error_desc": "An unexpected error occurred. Please try again later.",
+    "error_title": "Registration Error",
+    "failed_title": "Registration Failed",
+    "success_desc": "You have successfully registered. Welcome aboard!",
+    "success_title": "Registration Successful!"
+  },
+  "remove": "Remove",
+  "remove_item": "Remove Item",
+  "request_sent": "Request Sent",
+  "resend_otp_toast": {
+    "invalid_phone_desc": "Please enter a valid phone number with country code (e.g., +1234567890)",
+    "invalid_phone_title": "Invalid Phone Number",
+    "otp_resent_desc": "New verification code has been sent to your phone",
+    "otp_resent_title": "OTP Resent",
+    "recaptcha_error_desc": "Failed to initialize reCAPTCHA verification",
+    "recaptcha_error_title": "reCAPTCHA Error",
+    "resend_otp_error_title": "Resend OTP Error"
+  },
+  "returns": "Returns",
+  "return": "Return",
+  "review": "Review",
+  "reviewSeller": "Review Seller",
+  "review_comment_required": "Review comment is required",
+  "review_posted_successfully": "Thanks for sharing your feedback! Your review has been posted successfully.",
+  "review_submission_failed": "We couldn't post your review. Please check your details and try again.",
+  "review_submitted": "Review Submitted",
+  "review_title": "Review Title",
+  "review_title_placeholder": "Summarize your experience in a few words",
+  "review_title_required": "Review title is required",
+  "reviewed_on": "Reviewed on {{date}}",
+  "reviews": "Reviews",
+  "rushAvailable": "Rush Available",
+  "rushDeliveryUnavailable": "Rush delivery unavailable for this address.",
+  "save": "Save",
+  "recommended": "Recommended",
+  "saveForLaterTitle": "Save For Later",
+  "save_changes": "Save Changes",
+  "saving": "Saving...",
+  "scroll_more": "Scroll down to discover more {{entityType}}",
+  "search": "Search...",
+  "search_error_message": "We couldn't search for products right now. Please try again.",
+  "search_placeholder": "Search products, brands...",
+  "search_products": "Search Products",
+  "search_results": "Search Results",
+  "searching_products": "Searching products...",
+  "seeAll": "See All",
+  "see_all": "See All",
+  "see_more": "Show More",
+  "see_less": "Show Less",
+  "attribute": "Attribute",
+  "value": "Value",
+  "selectOptions": "Select Options",
+  "select_payment_method": "Select payment method",
+  "select_rating": "Please select a rating",
+  "select_status": "Select status",
+  "select_type": "Select type",
+  "selected": "Selected",
+  "seller": "Seller",
+  "sellerReviewsTitle": "Seller Reviews",
+  "send_request": "Send Request",
+  "share_your_thoughts": "Share your thoughts and help others make better decisions",
+  "shippingAddress": "Shipping Address",
+  "signup_toast": {
+    "invalid_phone_desc": "Please enter a valid phone number with country code (e.g., +1234567890)",
+    "invalid_phone_title": "Invalid Phone Number",
+    "otp_sent_desc": "Verification code has been sent to your phone",
+    "otp_sent_title": "OTP Sent",
+    "recaptcha_error_desc": "Failed to initialize reCAPTCHA verification",
+    "recaptcha_error_title": "reCAPTCHA Error",
+    "signup_error_title": "Sign-up Error"
+  },
+  "similarProducts": "Similar Products",
+  "sku": "SKU",
+  "soldBy": "Sold By",
+  "soldBySection": {
+    "acceptingOrders": "Currently accepting orders.",
+    "closed": "Closed",
+    "noLogo": "No Logo",
+    "noSellerInfo": "Seller information not available",
+    "open": "Open",
+    "opensAt": "Opens at",
+    "storeClosed": "Store is currently closed.",
+    "storeLabel": "Store:"
+  },
+  "something_went_wrong": "Something went wrong",
+  "status": "Status",
+  "step_error_description": "You can only order in multiples of {{step}}.",
+  "step_error_title": "Invalid Quantity Step",
+  "stockAvailable": "Stock: {{stock}} available",
+  "stock_limit_error_description": "Only {{stock}} item(s) available in stock.",
+  "stock_limit_error_title": "Stock Limit Reached",
+  "store_closed": "Store Closed",
+  "store_closed_message": "We're taking a break right now. Come back soon!",
+  "store_currently_closed": "Store is Currently Closed",
+  "subcategories": "Subcategories",
+  "submission_failed": "Submission Failed",
+  "submit_review": "Submit Review",
+  "submitting": "Submitting...",
+  "subtotal": "Subtotal",
+  "success": "Success",
+  "terrible_experience": "Terrible experience",
+  "tip": {
+    "clearButton": "Clear",
+    "currentAmount": "You're adding a {{amount}} tip. Thank you for your generosity! 🙏",
+    "customPlaceholder": "Custom amount",
+    "defaultMessage": "🙏 Your delivery partner will appreciate your kindness. 🙏",
+    "sectionDescription": "Your kindness means a lot! 100% of the tip goes to your delivery partner.",
+    "sectionTitle": "Tip your delivery partner"
+  },
+  "total": "Total",
+  "track": "Track",
+  "trackOrder": "Track Order",
+  "track_order": "Track Order",
+  "trackOrderModal": {
+    "orderNumber": "Order #{{slug}}",
+    "loading": "Loading delivery information...",
+    "error": {
+      "fetchFailed": "Failed to fetch delivery location",
+      "generic": "An error occurred while fetching location"
+    },
+    "orderStatus": "Order Status",
+    "deliveryPartnerLabel": "(Delivery Partner)",
+    "active": "Active",
+    "deliveryRoute": "Delivery Route",
+    "riderLocation": "Rider Location",
+    "totalDistance": "Total Distance",
+    "km": "km",
+    "kmFromPrevious": "km from previous"
+  },
+  "transaction_id": "Transaction ID",
+  "try_again": "Try Again",
+  "type": "Type",
+  "type_at_least_2_chars": "Type at least 2 characters",
+  "typing_message": "We'll search as you type...",
+  "unable_to_get_delivery_partner": "Unable to get delivery partner location",
+  "unable_to_load_offers": "Unable to load offers",
+  "unexpected_error": "Unexpected Error",
+  "untitled_product": "Untitled Product",
+  "updateReview": "Edit Review",
+  "update_failed_description": "We couldn't update the cart item.",
+  "update_failed_title": "Update Failed",
+  "updates_every_30s": "Updates every 30s",
+  "usage": "Usage",
+  "userLayout": {
+    "addresses": "Addresses",
+    "myAccount": "My Account",
+    "myOrders": "My Orders",
+    "myWishlists": "My Wishlists",
+    "shoppingList": "Shopping List",
+    "online": "Online",
+    "referAndEarn": "Refer & Earn",
+    "transactions": "Transactions",
+    "wallet": "Wallet"
+  },
+  "validTill": "Valid till",
+  "validation": {
+    "locationRequired": "Please select a map location",
+    "mobileInvalid": "Enter a valid 10-digit number",
+    "mobileRequired": "Mobile is required",
+    "required": "Required"
+  },
+  "very_bad": "Very Bad",
+  "very_good": "Very Good",
+  "viewOnMap": "View on Map",
+  "view_all": "View All",
+  "view_map": "View Map",
+  "view_review": "View Review",
+  "wallet": "Wallet",
+  "wallet_transactions_table": "Wallet Transactions table",
+  "warranty": "Warranty",
+  "wishlist": {
+    "button": {
+      "create": "Create",
+      "creating": "Creating..."
+    },
+    "confirm_delete_wishlist": "Are you sure you want to delete this wishlist?",
+    "confirm_remove_item": "Are you sure you want to remove this item from wishlist?",
+    "createNew": "Create New Wishlist",
+    "create_first_wishlist": "Create your first wishlist above",
+    "create_new_wishlist": "Create New Wishlist",
+    "delete_wishlist": "Delete Wishlist",
+    "edit_wishlist_error": "Name is required",
+    "edit_wishlist_label": "Wishlist Name",
+    "edit_wishlist_placeholder": "Enter wishlist name",
+    "edit_wishlist_title": "Edit Wishlist",
+    "empty": {
+      "description": "Choose a wishlist from the sidebar to view its products",
+      "title": "Select a wishlist"
+    },
+    "enter_wishlist_name": "Enter wishlist name...",
+    "error": {
+      "failed": "Failed to create wishlist",
+      "required": "Please enter a wishlist name"
+    },
+    "failed_add_to_wishlist": "Failed to add to wishlist",
+    "failed_create_wishlist": "Failed to create wishlist",
+    "failed_delete_wishlist": "Failed to delete wishlist",
+    "failed_fetch_wishlists": "Failed to fetch wishlists",
+    "failed_remove_item": "Failed to remove item from wishlist",
+    "inputPlaceholder": "Enter wishlist name...",
+    "loading_wishlists": "Loading wishlists...",
+    "modalTitle": "Save to Wishlist",
+    "move_modal_title": "Move to another wishlist",
+    "no_other_wishlists": "No other wishlists available.",
+    "no_wishlists_found": "No wishlists found",
+    "save_to_wishlist": "Save to Wishlist",
+    "select_wishlist": "Select Wishlist",
+    "select_wishlist_label": "Select Wishlist",
+    "select_wishlist_placeholder": "Choose wishlist",
+    "selected_wishlist_not_found": "Selected wishlist not found",
+    "wishlist_removeConfirmation": "Are you sure you want to remove \"{{product}}\" from your wishlist?"
+  },
+  "cookieConsent": {
+    "title": "🍪 We Value Your Privacy",
+    "description": "This website uses cookies to enhance your browsing experience, analyze site traffic, and serve relevant content. By clicking 'Accept', you consent to our use of cookies.",
+    "learnMore": "Learn more about how we use cookies in our",
+    "privacyPolicyLink": "Privacy Policy",
+    "accept": "Accept",
+    "decline": "Decline"
+  },
+  "wishlist_button_create": "Create Wishlist",
+  "wishlist_button_creating": "Creating Wishlist...",
+  "wishlist_create_new": "Create a New Wishlist",
+  "wishlist_emptyDescription": "You haven’t added any items to your wishlist yet. Start exploring and save your favorite products!",
+  "wishlist_emptyTitle": "Your Wishlist is Empty",
+  "wishlist_error_failed": "Failed to create wishlist. Please try again.",
+  "wishlist_error_required": "Please enter a wishlist name before continuing.",
+  "wishlist_input_placeholder": "Enter wishlist name",
+  "wishlist_modal_title": "New Wishlist",
+  "wishlist_selectTitle": "Select a Wishlist",
+  "wishlist_selectDescription": "Choose a wishlist from the left to view its products.",
+  "withdraw": "Withdraw",
+  "withdraw_funds": "Withdraw Funds",
+  "withdrawal_request_failed": "Withdrawal request failed.",
+  "withdrawal_request_success": "Your withdrawal request was submitted successfully.",
+  "work": "Work",
+  "yes_cancel": "Yes, Cancel",
+  "youMightAlsoLike": "You Might Also Like",
+  "your_review": "Your Review",
+  "your_review_placeholder": "Share detailed feedback about your experience with this {{type}}...",
+  "latitude": "Latitude",
+  "longitude": "Longitude",
+  "enter-city-or-address": "Enter a city or address",
+  "saveForLater": {
+    "title": "Saved for Later",
+    "button": "Save for Later",
+    "movedMessage": "Item has been moved to your Saved for Later list.",
+    "removedMessage": "Item has been removed from your Saved for Later list.",
+    "empty": "No items saved for later",
+    "errorTitle": "Action Failed",
+    "errorMessage": "We couldn’t save this item for later. Please try again.",
+    "moveToCart": "Move to Cart",
+    "clearAll": "Clear All Saved Items",
+    "header": "Your Saved for Later Items",
+    "moveSuccess": {
+      "title": "Item Moved",
+      "description": "The item has been moved to your cart successfully."
+    },
+    "moveFailed": {
+      "title": "Action Failed",
+      "description": "We couldn’t move this item to your cart. Please try again."
+    }
+  },
+  "search_keywords": "Search keywords",
+  "start_typing_to_search": "Start typing to search...",
+  "return_items": "Return Items",
+  "return_items_desc": "Select the items you want to return.",
+  "return_by": "Return by",
+  "return_requested": "Return Requested",
+  "return_reason_title": "Tell us why you are returning",
+  "return_reason_subtitle": "Add details to help us process your return faster.",
+  "return_reason_placeholder": "Describe the reason for return",
+  "return_reason_required": "Please provide a return reason.",
+  "upload_supporting_photos": "Upload supporting photos",
+  "remove_image": "Remove image",
+  "submit_request": "Submit Request",
+  "return_request_submitted": "Return Request Submitted",
+  "return_request_success_msg": "Your return request has been submitted successfully.",
+  "return_request_failed": "Return Request Failed",
+  "return_request_cancelled": "Return Request Cancelled",
+  "return_request_cancelled_desc": "Your return request has been cancelled successfully.",
+  "return_request_cancel_failed": "Unable to cancel request",
+  "return_requests_title": "Return Requests",
+  "return_requests_subtitle": "Track your submitted return requests and cancel if needed.",
+  "view_return_requests": "See return requests",
+  "no_return_requests": "No return requests yet.",
+  "cancel_request": "Cancel request",
+  "pickup_date": "Pickup date",
+  "reference": "Reference",
+  "return_evidence": "Return evidence",
+  "reason": "Reason",
+  "seller_comment": "Seller comment",
+  "sellerReviews": {
+    "title": "{{count}} Reviews",
+    "subtitle": "{{count}} of {{total}} reviews",
+    "sortAriaLabel": "Sort reviews",
+    "sort": {
+      "latest": "Latest",
+      "oldest": "Oldest"
+    },
+    "error": "Failed to load reviews. Please try again.",
+    "noData": "No reviews found."
+  },
+  "could_not_load_some_images": "Could not load some images.",
+  "image_load_failed": "Image failed to load.",
+  "not_found": "Not Found",
+  "no_product_found": "No product found",
+  "no_product_available": "We think this product is not available at your location.",
+  "add": "Add",
+  "removedItems": {
+    "singleTitle": "An item was removed from your cart",
+    "multipleTitle": "Some items were removed from your cart",
+    "description": "These items are unavailable for the selected location and have been removed.",
+    "qty": "Qty",
+    "store": "Store",
+    "empty": "No removed items",
+    "close": "Close"
+  },
+  "failedItems": {
+    "singleTitle": "Unable to add item to cart",
+    "multipleTitle": "Unable to add some items to cart",
+    "description": "The following items could not be added to your cart.",
+    "qty": "Qty",
+    "store": "Store",
+    "reason": "Reason",
+    "empty": "No failed items",
+    "okay": "Okay"
+  },
+  "handlingCharges": "Handling Charges",
+  "dropOffFee": "Drop-off Fee",
+  "promoDiscountApplied": "Promo Discount Applied",
+  "cashbackReward": "Cashback Reward",
+  "cashbackAwarded": "Cashback Awarded",
+  "cashbackAmount": "Cashback Amount",
+  "discountAmount": "Discount Amount",
+  "credited": "Credited",
+  "applied": "Applied",
+  "code": "Code",
+  "cashbackPendingNote": "Cashback will be credited to your wallet after order completion.",
+  "giftCardApplied": "Gift Card Applied",
+  "totalAmount": "Total Amount",
+  "reset": "Reset",
+  "quickView": "Quick View",
+  "cancellation": "Cancellation",
+  "returnable": "Returnable",
+  "not_returnable": "Non-Returnable",
+  "return_days_policy": "{{count}} Days Return",
+  "cancelable": "Order Cancelable",
+  "not_cancelable": "Non-Cancelable",
+  "cancel_till_policy": "before {{date}}",
+  "featured": "Featured",
+  "walletAmount": "Wallet Amount",
+  "walletAmountUsed": "Wallet Amount Used",
+  "walletPaymentNote": "{{walletAmount}} paid from wallet, {{remainingAmount}} via {{paymentMethod}}",
+  "browse": "Browse",
+  "attachments": "Attachments",
+  "openInNewTab": "Open in new tab",
+  "please_select_variant": "Please select a variant",
+  "preview": "Preview",
+  "filters": {
+    "all": "All",
+    "dateRange": "Date Range",
+    "status": "Status",
+    "last_30_minutes": "Last 30 Min",
+    "last_1_hour": "Last 1 Hour",
+    "last_5_hours": "Last 5 Hours",
+    "last_1_day": "Last 1 Day",
+    "last_7_days": "Last 7 Days",
+    "last_30_days": "Last 30 Days",
+    "last_365_days": "Last 365 Days",
+    "orderType": "Order Type",
+    "allTypes": "All Types",
+    "regular": "Regular",
+    "pickup": "Self Pick-up",
+    "freeDeliveryHint": "Free Delivery Offer",
+    "addMoreForFreeDelivery": "Add {{amount}} more to get FREE delivery!"
+  },
+  "statusFilters": {
+    "pending": "Pending",
+    "awaiting_store_response": "Awaiting Store Response",
+    "partially_accepted": "Partially Accepted",
+    "rejected_by_seller": "Rejected",
+    "accepted_by_seller": "Accepted",
+    "accepted": "Accepted",
+    "ready_for_pickup": "Ready for Pickup",
+    "assigned": "Assigned",
+    "preparing": "Preparing",
+    "collected": "Collected",
+    "out_for_delivery": "Out for Delivery",
+    "delivered": "Delivered",
+    "cancelled": "Cancelled",
+    "failed": "Failed",
+    "returned": "Returned"
+  },
+  "change": "Change",
+  "select_all": "Select All",
+  "deselect_all": "Deselect All",
+  "closed": "Closed",
+  "pickupStoreInfo": "Store Pickup Address",
+  "pickupStoresInfo": "Stores Pickup Address",
+  "pickupInstructions": "Pickup Instructions",
+  "collection_otp_title": "Ready for Store Pickup",
+  "collection_otp_desc": "Please show this OTP to the store operator when picking up your order.",
+  "collection_otp_label": "Collection OTP"
+}

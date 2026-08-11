@@ -1,0 +1,16 @@
+/* Global app styles */
+@import "./globals.css";
+
+/* Swiper styles */
+@import "swiper/css";
+@import "swiper/css/free-mode";
+@import "swiper/css/navigation";
+@import "swiper/css/pagination";
+@import "swiper/css/mousewheel";
+
+/* Progress bar */
+@import "nprogress/nprogress.css";
+
+/* Lightbox */
+@import "yet-another-react-lightbox/styles.css";
+@import "yet-another-react-lightbox/plugins/thumbnails.css";

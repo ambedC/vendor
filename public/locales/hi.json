@@ -1,0 +1,1945 @@
+{
+  "about_us": "हमारे बारे में",
+  "addToBucket": "बकेट में जोड़ें",
+  "add_photos": "फ़ोटो जोड़ें",
+  "address": {
+    "addNew": "नया जोड़ें",
+    "chooseAddress": "पता चुनें",
+    "chooseLocation": "अपना डिलीवरी स्थान चुनें",
+    "delete_confirm_description": "क्या आप वाकई इस पते को हटाना चाहते हैं?",
+    "delete_confirm_title": "पता हटाएं",
+    "delete_failed_description": "पता हटाया नहीं जा सका। कृपया पुनः प्रयास करें।",
+    "delete_failed_title": "हटाने में विफल",
+    "deleted_description": "पता सफलतापूर्वक हटा दिया गया है।",
+    "deleted_title": "पता हटाया गया",
+    "deliveryAddress": "डिलीवरी पता",
+    "labels": {
+      "addressLine1": "पता पंक्ति 1",
+      "addressLine2": "पता पंक्ति 2",
+      "addressType": "पते का प्रकार",
+      "city": "शहर",
+      "defaultAddress": "डिफ़ॉल्ट के रूप में सेट करें",
+      "landmark": "निशान",
+      "location": "स्थान चुनें",
+      "mobile": "मोबाइल नंबर",
+      "state": "राज्य",
+      "zipcode": "पिन कोड"
+    },
+    "loading": "लोड हो रहा है...",
+    "noAddresses": "कोई पता उपलब्ध नहीं है",
+    "noSelected": "कोई पता चयनित नहीं है",
+    "pleaseAddFirst": "कृपया पहले एक पता जोड़ें",
+    "selectAddress": "पता चुनें",
+    "toast": {
+      "addSuccess": "पता सफलतापूर्वक जोड़ा गया",
+      "error": "कुछ गलत हो गया",
+      "save_failed": "सेव करने में विफल!",
+      "toast": {
+        "error": "त्रुटि"
+      },
+      "updateSuccess": "पता सफलतापूर्वक अपडेट किया गया"
+    },
+    "unexpected_error_description": "एक अप्रत्याशित त्रुटि हुई। कृपया बाद में पुनः प्रयास करें।",
+    "unexpected_error_title": "अप्रत्याशित त्रुटि",
+    "update": "पता अपडेट करें"
+  },
+  "addressSelection": {
+    "current": "वर्तमान",
+    "empty": {
+      "button": "अपना पहला पता जोड़ें",
+      "failed": "पते लोड करने में विफल। कृपया पुनः प्रयास करें।",
+      "noAddresses": "कोई पता नहीं मिला। जारी रखने के लिए अपना पहला पता जोड़ें।"
+    },
+    "footer": {
+      "alreadySelected": "पहले से चयनित",
+      "confirm": "चयन की पुष्टि करें"
+    },
+    "header": {
+      "subtitle": {
+        "empty": "कोई सहेजा हुआ पता नहीं मिला",
+        "withAddresses": "{{count}} सहेजे गए पते{{plural}} में से चुनें"
+      },
+      "title": "डिलीवरी पता चुनें"
+    },
+    "loading": {
+      "message": "सभी पते लोड हो रहे हैं..."
+    }
+  },
+  "address_not_available": "पता उपलब्ध नहीं है",
+  "all_products": "सभी उत्पाद",
+  "all_statuses": "सभी स्थिति",
+  "all_types": "सभी प्रकार",
+  "already_in_list": "पहले से सूची में है",
+  "amount": "राशि",
+  "amount_max_limit": "राशि $1,000,000 से अधिक नहीं हो सकती",
+  "amount_positive_number": "राशि एक धनात्मक संख्या होनी चाहिए",
+  "apply": "लागू करें",
+  "aria": {
+    "close_menu": "मेनू बंद करें",
+    "open_menu": "मेनू खोलें"
+  },
+  "available_options": "उपलब्ध विकल्प:",
+  "available_promo_codes": "उपलब्ध प्रोमो कोड",
+  "bad": "खराब",
+  "brand": {
+    "accordionLabel": "ब्रांड्स का एकॉर्डियन",
+    "loading": "ब्रांड लोड हो रहे हैं...",
+    "noBrands": "कोई ब्रांड नहीं मिला",
+    "scrollMore": "अधिक देखने के लिए स्क्रॉल करें",
+    "selectionAria": "ब्रांड चयन",
+    "subtitle": "चयन करने के लिए क्लिक करें",
+    "title": "ब्रांड्स"
+  },
+  "browse_category": "श्रेणी ब्राउज़ करें",
+  "buyNow": "अभी खरीदें",
+  "by": "द्वारा",
+  "cancel": "रद्द करें",
+  "common": {
+    "cancel": "रद्द करें"
+  },
+  "cancel_item_failed_msg": "हम चयनित आइटम को रद्द नहीं कर सके। कृपया पुनः प्रयास करें।",
+  "cancel_item_failed_title": "रद्द करना विफल रहा",
+  "cancel_item_success_msg": "चयनित आइटम सफलतापूर्वक रद्द कर दिया गया है।",
+  "cancel_item_success_title": "आइटम रद्द किया गया",
+  "cancel_items": "ऑर्डर आइटम रद्द करें",
+  "cancel_items_desc": "नीचे दिए गए आइटम को चुनें जिसे आप अपने ऑर्डर से रद्द करना चाहते हैं।",
+  "cart": {
+    "add_failed": "कार्ट में जोड़ना विफल",
+    "add_failed_description": "आइटम को कार्ट में जोड़ना संभव नहीं",
+    "add_failed_title": "कार्ट में जोड़ना विफल",
+    "add_success": "आइटम सफलतापूर्वक कार्ट में जोड़ा गया",
+    "backToHome": "मुखपृष्ठ पर वापस जाएं",
+    "browseCategories": "श्रेणियाँ ब्राउज़ करें",
+    "cancellationPolicy": {
+      "description": "अपने अधिकार जानें",
+      "freeCancellation": "ऑर्डर करने के 2 मिनट के भीतर मुफ्त रद्दीकरण",
+      "noRefund": "यदि डिलीवरी पार्टनर असाइन हो चुका है तो कोई रिफंड नहीं",
+      "partialRefund": "तैयारी शुरू होने के बाद रद्द करने पर आंशिक रिफंड",
+      "title": "रद्दीकरण नीति"
+    },
+    "cartEmptyDescription": "आपने अभी तक कुछ नहीं जोड़ा है। अभी हमारे उत्पाद देखें।",
+    "cartEmptyTitle": "आपकी कार्ट खाली है",
+    "continueShopping": "खरीदारी जारी रखें",
+    "deliveryInstructions": {
+      "description": "डिलीवरी के लिए कोई विशेष निर्देश",
+      "placeholder": "जैसे, घंटी बजाएं, दरवाजे पर छोड़ दें, डिलीवरी से पहले कॉल करें...",
+      "title": "डिलीवरी निर्देश"
+    },
+    "orderInstructions": {
+      "description": "आपके ऑर्डर के लिए कोई विशेष निर्देश",
+      "placeholder": "जैसे, ध्यान से पैक करें, पिकअप से पहले कॉल करें...",
+      "title": "ऑर्डर निर्देश"
+    },
+    "error_description": "कार्ट में जोड़ने के दौरान कुछ गलत हुआ",
+    "error_message": "कार्ट में जोड़ते समय कुछ गलत हुआ",
+    "error_title": "त्रुटि",
+    "fetch_failed": "अपडेटेड कार्ट प्राप्त करने में विफल",
+    "fetch_failed_description": "आइटम जोड़ने के बाद कार्ट अपडेट नहीं हो सका",
+    "fetch_failed_title": "कार्ट प्राप्त करने में विफल",
+    "login_required": "कृपया जारी रखने के लिए लॉगिन करें",
+    "selectAddressToCheckRushDelivery": "रश डिलीवरी उपलब्ध है या नहीं देखने के लिए एक पता चुनें",
+    "sync_success_title": "कार्ट सिंक हो गया",
+    "sync_success_desc": "आपके कार्ट आइटम सफलतापूर्वक सिंक हो गए हैं",
+    "sync_error_title": "सिंक विफल",
+    "sync_error_desc": "आपके कार्ट को सिंक करते समय एक त्रुटि हुई",
+    "attachments": {
+      "required": "इस आइटम के लिए अटैचमेंट आवश्यक है",
+      "uploadButton": "अटैचमेंट अपलोड करें",
+      "helperText": "{{maxFiles}} फाइलें अपलोड करें (इमेज, PDF, DOCX)। प्रति फाइल अधिकतम {{maxSize}}MB।",
+      "errors": {
+        "fileTooLarge": {
+          "title": "फाइल बहुत बड़ी है",
+          "description": "फाइल \"{{fileName}}\" बहुत बड़ी है। अधिकतम आकार {{maxSize}}MB है।"
+        },
+        "invalidType": {
+          "title": "अमान्य फाइल प्रकार",
+          "description": "फाइल \"{{fileName}}\" का प्रारूप असमर्थित है। केवल इमेज, PDF और DOCX फाइलें अनुमत हैं।"
+        },
+        "tooManyFiles": {
+          "title": "बहुत अधिक फाइलें",
+          "description": "आप प्रति आइटम केवल {{maxFiles}} फाइलें अपलोड कर सकते हैं।"
+        },
+        "uploadFailed": {
+          "title": "अपलोड विफल",
+          "description": "फाइलों को प्रोसेस करने में विफल। कृपया पुनः प्रयास करें।"
+        }
+      },
+      "uploadSuccess": {
+        "title": "फाइलें जोड़ी गईं",
+        "description": "{{count}} फाइल(ें) सफलतापूर्वक जोड़ी गईं।"
+      },
+      "removeSuccess": {
+        "title": "फाइल हटाई गई",
+        "description": "अटैचमेंट सफलतापूर्वक हटाया गया।"
+      },
+      "count": "{{count}} संलग्नक",
+      "helperModeText": "आपके ऑर्डर के लिए आवश्यक अटैचमेंट",
+      "optionalLabel": "वैकल्पिक",
+      "requiredLabel": "आवश्यक"
+    },
+    "deliveryMode": {
+      "delivery": "डिलीवरी",
+      "pickup": "स्टोर से पिकअप"
+    },
+    "pickup": {
+      "not_supported_title": "स्टोर से पिकअप समर्थित नहीं है",
+      "not_supported_desc": "पिकअप ऑर्डर देने के लिए, कृपया कार्ट से निम्नलिखित स्टोर के आइटम हटाएं या इसके बजाय डिलीवरी चुनें:",
+      "store_info": "स्टोर पिकअप पता",
+      "instructions_label": "पिकअप निर्देश",
+      "return_notice": "इस आइटम को वापस करने के लिए, कृपया उस स्टोर पर जाएँ जहाँ से ऑर्डर कलेक्ट किया गया था।"
+    }
+  },
+  "cartItems": {
+    "from": "से",
+    "itemRemoved": {
+      "description": "आइटम को आपकी कार्ट से सफलतापूर्वक हटा दिया गया है।",
+      "title": "आइटम हटाया गया"
+    },
+    "networkError": {
+      "description": "आइटम हटाते समय त्रुटि हुई।",
+      "title": "नेटवर्क त्रुटि"
+    },
+    "removeFailed": {
+      "description": "आइटम को कार्ट से हटाना संभव नहीं था।",
+      "title": "हटाने में विफल"
+    },
+    "removeItemModal": {
+      "alertDescription": "यह क्रिया पूर्ववत नहीं की जा सकती।",
+      "alertTitle": "चेतावनी",
+      "cancelText": "रद्द करें",
+      "confirmText": "हटाएं",
+      "description": "क्या आप वाकई इस आइटम को अपनी कार्ट से हटाना चाहते हैं?",
+      "title": "आइटम हटाएं"
+    },
+    "customize": "अपनी पसंद चुनें"
+  },
+  "cart_title": "कार्ट",
+  "cart_updated_description": "आपकी कार्ट सफलतापूर्वक अपडेट हो गई है।",
+  "cart_updated_title": "कार्ट अपडेट की गई",
+  "categories": "श्रेणियाँ",
+  "category": {
+    "accordionLabel": "एकॉर्डियन श्रेणियाँ",
+    "loading": "श्रेणियाँ लोड हो रही हैं...",
+    "noCategories": "कोई श्रेणी नहीं मिली",
+    "scrollMore": "अधिक देखने के लिए स्क्रॉल करें",
+    "subtitle": "चयन करने के लिए क्लिक करें",
+    "title": "श्रेणियाँ"
+  },
+  "check_back_later": "नई रोमांचक ऑफ़र के लिए बाद में जांचें!",
+  "checkout": {
+    "cartCleared": {
+      "description": "आपकी कार्ट सफलतापूर्वक साफ़ कर दी गई है",
+      "title": "कार्ट साफ़ की गई"
+    },
+    "clearCart": "कार्ट साफ़ करें",
+    "clearCartModal": {
+      "alertDescription": "यह क्रिया पूर्ववत नहीं की जा सकती।",
+      "alertTitle": "चेतावनी",
+      "cancelText": "रद्द करें",
+      "confirmText": "कार्ट साफ़ करें",
+      "description": "क्या आप वाकई अपनी कार्ट से सभी आइटम हटाना चाहते हैं?",
+      "title": "कार्ट साफ़ करें"
+    },
+    "closedStores": {
+      "description": "आप बंद स्टोर से आइटम का चेकआउट नहीं कर सकते: {{stores}}। कृपया आगे बढ़ने से पहले उन्हें हटाएं।",
+      "title": "कुछ स्टोर बंद हैं"
+    },
+    "deliveryCharges": "डिलीवरी शुल्क",
+    "freeShipping": "फ्री शिपिंग",
+    "distanceCharges": "दूरी शुल्क",
+    "dropOffFee": "ड्रॉप-ऑफ शुल्क",
+    "error_console": "ऑर्डर बनाते समय त्रुटि हुई!",
+    "error_title": "ऑर्डर करते समय त्रुटि!",
+    "estimatedDelivery": "अनुमानित डिलीवरी",
+    "handlingCharges": "हैंडलिंग शुल्क",
+    "itemsTotal": "कुल आइटम",
+    "noAddressSelected": {
+      "description": "कृपया आगे बढ़ने के लिए एक डिलीवरी पता चुनें",
+      "title": "कोई पता चयनित नहीं है"
+    },
+    "no_address": "चेकआउट के लिए कोई पता चयनित नहीं है।",
+    "proceedToCheckout": "चेकआउट पर जाएं",
+    "promo": "प्रोमो",
+    "rushDelivery": "रश डिलीवरी",
+    "rushDeliveryDescription": "त्वरित सेवा",
+    "selectAddressToCheckRushDelivery": "रश डिलीवरी उपलब्ध है या नहीं देखने के लिए एक पता चुनें",
+    "selectAddressToEnableRush": "रश डिलीवरी सक्षम करने के लिए एक पता चुनें",
+    "stores": "स्टोर",
+    "success": "ऑर्डर सफलतापूर्वक किया गया!",
+    "totalAmount": "कुल राशि",
+    "useWalletBalance": "वॉलेट बैलेंस का उपयोग करें",
+    "walletAmountUsed": "उपयोग के लिए वॉलेट राशि",
+    "yourOrder": "आपका ऑर्डर",
+    "flutterwave_link_invalid": "अमान्य भुगतान लिंक",
+    "flutterwave_link_error_message": "Flutterwave भुगतान लिंक गायब है या अमान्य है। कृपया दोबारा प्रयास करें।",
+    "cashbackReward": "आपको यह कैशबैक के रूप में मिलेगा",
+    "remainingWalletBalance": "शेष वॉलेट बैलेंस",
+    "payWithWallet": "वॉलेट से भुगतान करें",
+    "allPricesIncludeTaxes": "सभी कीमतें कर सहित हैं",
+    "failed": {
+      "title": "भुगतान असफल",
+      "description": "आपका भुगतान पूरा नहीं हो पाया। कृपया दोबारा कोशिश करें।"
+    },
+    "validation": {
+      "multipleStores": "कृपया अपना ऑर्डर अलग-अलग (split) करें। हम एक बार में केवल एक स्टोर के आइटम प्रोसेस कर सकते हैं।",
+      "maxItemsExceeded": "कार्ट की लिमिट ({{maxItems}} आइटम) पूरी हो गई है। आपके पास {{currentItems}} आइटम हैं, कृपया कुछ हटा दें।",
+      "minCartAmount": "{{currencySymbol}}{{minAmount}} के मिनिमम चेकआउट के लिए कृपया {{currencySymbol}}{{remainingAmount}} और जोड़ें।",
+      "title": "चेकआउट पर आगे बढ़ा नहीं जा सकता"
+    },
+    "attachmentsRequired": {
+      "title": "अटैचमेंट आवश्यक हैं",
+      "description": "कृपया इन उत्पादों के लिए आवश्यक अटैचमेंट अपलोड करें: {{products}}"
+    }
+  },
+  "general": {
+    "error": {
+      "title": "कुछ गलत हो गया",
+      "somethingWentWrong": "कोई त्रुटि हुई है। कृपया थोड़ी देर बाद फिर से कोशिश करें।"
+    }
+  },
+  "choices": "{{count}} विकल्प",
+  "choose_active_offers": "{{count}} सक्रिय ऑफ़र में से चुनें और अधिक बचत करें!",
+  "clear_all": "सभी साफ़ करें",
+  "clear_search": "खोज साफ़ करें",
+  "close": "बंद करें",
+  "compareWithOthers": "अन्य के साथ तुलना करें",
+  "completed": "पूरा हुआ",
+  "confirm_cancel_item": "आइटम रद्द करने की पुष्टि करें",
+  "confirm_cancel_item_desc": "क्या आप वाकई इस आइटम को रद्द करना चाहते हैं? यह क्रिया पूर्ववत नहीं की जा सकती।",
+  "connecting": "कनेक्ट हो रहा है...",
+  "contactSupport": "सपोर्ट से संपर्क करें",
+  "continue": "जारी रखें",
+  "continue_with_google": "Google के साथ जारी रखें",
+  "continue_with_apple": "Apple के साथ जारी रखें",
+  "copy_to_clipboard": "क्लिपबोर्ड पर कॉपी करें",
+  "create": "बनाएं",
+  "created": "बनाया गया",
+  "creating": "बनाया जा रहा है...",
+  "currency": "मुद्रा",
+  "date": "तारीख",
+  "decrease_quantity": "मात्रा घटाएं",
+  "delete": "हटाएं",
+  "delivering_to": "डिलीवरी स्थान:",
+  "delivering_to_your_location": "आपके स्थान पर डिलीवरी की जा रही है",
+  "delivery": "डिलीवरी",
+  "deliveryCharge": "डिलीवरी शुल्क",
+  "deliveryFee": "डिलीवरी शुल्क:",
+  "deliveryPartner": "डिलीवरी पार्टनर",
+  "deliveryReview": "डिलीवरी समीक्षा",
+  "delivery_info": "डिलीवरी जानकारी",
+  "delivery_location": "डिलीवरी स्थान",
+  "delivery_partner": "डिलीवरी पार्टनर",
+  "deposit": {
+    "buttonTitle": "जमा करें",
+    "error": {
+      "descInvalid": "विवरण में केवल अक्षर, संख्या और बुनियादी विराम चिह्न हो सकते हैं",
+      "descMax": "विवरण 500 वर्णों से अधिक नहीं हो सकता",
+      "descMin": "विवरण कम से कम 5 वर्णों का होना चाहिए",
+      "exceed": "राशि $1,000,000 से अधिक नहीं हो सकती",
+      "invalid": "राशि एक धनात्मक संख्या होनी चाहिए",
+      "message": "बैलेंस जोड़ने में विफल",
+      "positive": "कृपया एक धनात्मक पूर्णांक दर्ज करें",
+      "title": "त्रुटि"
+    },
+    "input": {
+      "amount": {
+        "label": "राशि",
+        "placeholder": "जमा राशि दर्ज करें"
+      },
+      "description": {
+        "label": "विवरण",
+        "placeholder": "इस जमा के बारे में कोई अतिरिक्त विवरण जोड़ें (यदि दिया गया है तो कम से कम 5 वर्ण)"
+      }
+    },
+    "modalTitle": "धन जमा करें",
+    "processingPayment": "भुगतान संसाधित किया जा रहा है",
+    "submitButton": "जमा जोड़ें",
+    "success": {
+      "message": "बैलेंस सफलतापूर्वक जोड़ा गया",
+      "title": "सफलता"
+    },
+    "unexpected": {
+      "message": "कुछ गलत हो गया। कृपया पुनः प्रयास करें।",
+      "title": "अप्रत्याशित त्रुटि"
+    }
+  },
+  "deposit_error": {
+    "positive": "धनात्मक"
+  },
+  "deposit_title": "जमा",
+  "description": "विवरण",
+  "description_invalid_characters": "विवरण में केवल अक्षर, संख्या और बुनियादी विराम चिह्न हो सकते हैं",
+  "description_max_500": "विवरण 500 वर्णों से अधिक नहीं हो सकता",
+  "description_min_5": "विवरण कम से कम 5 वर्णों का होना चाहिए",
+  "description_placeholder": "निकासी का कारण (कम से कम 5 वर्ण)",
+  "details": "विवरण",
+  "reorder": "फिर से ऑर्डर करें",
+  "discount": "{{percent}}% की छूट",
+  "edit": "संपादित करें",
+  "edit_review": "समीक्षा संपादित करें",
+  "email_check": {
+    "check_error": "ईमेल उपलब्धता जांचते समय त्रुटि",
+    "email_exists": "इस ईमेल से एक खाता पहले से मौजूद है",
+    "invalid_email": "कृपया एक मान्य ईमेल पता दर्ज करें"
+  },
+  "end_reached": "आप अंत तक पहुँच गए हैं! सभी {{total}} {{entityType}} लोड हो चुके हैं।",
+  "enter_min_2_chars": "कृपया खोज के लिए कम से कम 2 अक्षर दर्ज करें",
+  "enter_positive_integer": "कृपया एक धनात्मक पूर्णांक दर्ज करें",
+  "enter_withdraw_amount": "निकासी राशि दर्ज करें",
+  "error": "त्रुटि",
+  "error_loading_promo_codes": "प्रोमो कोड लोड करने में त्रुटि",
+  "estimatedDelivery": "अनुमानित डिलीवरी",
+  "estimatedDeliveryTime": "अनुमानित डिलीवरी समय",
+  "excellent": "उत्कृष्ट",
+  "expired": "समय समाप्त",
+  "express_rushDelivery": "रश डिलीवरी",
+  "express_rushDeliveryDescription": "प्राथमिकता हैंडलिंग के साथ अपना ऑर्डर जल्दी प्राप्त करें",
+  "failed": "विफल",
+  "failed_to_update_location": "स्थान अपडेट करने में विफल",
+  "faqs": "सामान्य प्रश्न",
+  "fetching_delivery_partner_info": "डिलीवरी पार्टनर की जानकारी प्राप्त की जा रही है...",
+  "file_too_large": "फ़ाइल बहुत बड़ी है",
+  "footer": {
+    "bottom_bar": {
+      "powered_by": "द्वारा संचालित"
+    },
+    "company_info": {
+      "quality": "गुणवत्ता",
+      "secure": "सुरक्षित",
+      "secure_payments": "100% सुरक्षित भुगतान",
+      "trusted": "विश्वसनीय",
+      "trusted_customers": "हजारों ग्राहकों द्वारा विश्वसनीय",
+      "wide_range": "उच्च गुणवत्ता वाले उत्पादों की विस्तृत श्रृंखला"
+    },
+    "contact_info": {
+      "call_us": "हमें कॉल करें",
+      "email_us": "हमें ईमेल करें",
+      "header": "संपर्क करें"
+    },
+    "policies": {
+      "header": "नीतियाँ",
+      "privacy_policy": "गोपनीयता नीति",
+      "return_refund_policy": "वापसी और रिफंड नीति",
+      "shipping_policy": "शिपिंग नीति",
+      "terms_conditions": "नियम और शर्तें"
+    },
+    "quick_links": {
+      "about_us": "हमारे बारे में",
+      "delivery_zones": "डिलीवरी क्षेत्र",
+      "faqs": "सामान्य प्रश्न",
+      "header": "त्वरित लिंक",
+      "order_now": "अभी ऑर्डर करें",
+      "stores": "स्टोर"
+    },
+    "social": {
+      "follow_us": "हमें फ़ॉलो करें"
+    }
+  },
+  "found": "मिला",
+  "freeAbove": "निःशुल्क ऊपर:",
+  "fulfillmentType": "पूर्ति प्रकार",
+  "giftCard": "गिफ्ट कार्ड",
+  "good": "अच्छा",
+  "great_experience": "शानदार अनुभव",
+  "guarantee": "गारंटी",
+  "home": {
+    "brands": {
+      "description": "लाखों लोगों द्वारा विश्वसनीय",
+      "title": "विशेष ब्रांड्स"
+    },
+    "categories": {
+      "description": "श्रेणियों की विस्तृत श्रृंखला का अन्वेषण करें",
+      "title": "श्रेणी अनुसार खरीदें"
+    },
+    "delivery": {
+      "button": "अभी ऑर्डर करें",
+      "features": {
+        "contact_free": "संपर्क रहित डिलीवरी",
+        "packaging": "सुरक्षित पैकेजिंग",
+        "tracking": "रीयल-टाइम ट्रैकिंग"
+      },
+      "header": "तेज़ और विश्वसनीय",
+      "highlight": "डिलीवरी",
+      "subtitle": "हर ऑर्डर के लिए सुरक्षित, विश्वसनीय और समय पर डिलीवरी",
+      "title": "तेज़ और विश्वसनीय"
+    },
+    "products": {
+      "description": "आपके लिए चुने गए ताज़ा ऑफ़र",
+      "title": "उत्पाद खरीदें"
+    },
+    "recently_viewed": {
+      "description": "जहाँ आपने छोड़ा था वहाँ से जारी रखें",
+      "title": "हाल ही में देखे गए"
+    },
+    "stores": {
+      "description": "आपके आस-पास के विश्वसनीय स्थानीय विक्रेताओं की खोज करें",
+      "title": "स्टोर ब्राउज़ करें"
+    }
+  },
+  "home_title": "मुखपृष्ठ",
+  "how_would_you_rate": "आप इसे कैसे रेट करना चाहेंगे {{type}}? *",
+  "image_limit_exceeded": "छवि सीमा पार हो गई",
+  "image_size_limit_5mb": "प्रत्येक छवि 5MB से कम होनी चाहिए",
+  "images": "छवियाँ",
+  "inclusiveTax": "(सभी कर शामिल हैं)",
+  "increase_quantity": "मात्रा बढ़ाएं",
+  "invalid_file_type": "अमान्य फ़ाइल प्रकार",
+  "invoice": "चालान",
+  "item": "आइटम",
+  "item_not_found": "आइटम नहीं मिला",
+  "items": "आइटम",
+  "itemsCount": "आइटम ({{count}})",
+  "its_okay": "ठीक है",
+  "keep_typing": "टाइप करते रहें...",
+  "last_updated": "अंतिम अपडेट",
+  "list": "सूची",
+  "lists": "सूचियाँ",
+  "browseStores": "स्टोर ब्राउज़ करें",
+  "load_more": "और लोड करें",
+  "loading": "लोड हो रहा है...",
+  "addons": "ऐड-ऑन",
+  "loading_available_offers": "उपलब्ध ऑफ़र लोड हो रहे हैं...",
+  "loading_promo_codes": "प्रोमो कोड लोड हो रहे हैं...",
+  "locationSelector": {
+    "cannotConfirm": "स्थान की पुष्टि नहीं की जा सकती",
+    "checking": "जांच हो रही है...",
+    "confirmLocation": "स्थान की पुष्टि करें",
+    "currentLocation": "वर्तमान स्थान",
+    "deliveryAvailable": "डिलीवरी उपलब्ध है",
+    "deliveryNotAvailable": "डिलीवरी उपलब्ध नहीं है",
+    "deliveryNotAvailableDescription": "आप ब्राउज़िंग जारी रख सकते हैं या कोई अन्य स्थान चुन सकते हैं",
+    "errorChecking": "डिलीवरी ज़ोन की जांच में त्रुटि",
+    "errorConfirming": "स्थान की पुष्टि में त्रुटि",
+    "errorProcessing": "स्थान संसाधित करने में त्रुटि",
+    "getting": "प्राप्त किया जा रहा है...",
+    "modalTitle": "स्थान चयनकर्ता",
+    "pleaseConfirm": "कृपया जारी रखने के लिए स्थान की पुष्टि करें!",
+    "selectLocation": "स्थान चुनें"
+  },
+  "login_modal": {
+    "aria": {
+      "hide_password": "पासवर्ड छिपाएँ",
+      "show_password": "पासवर्ड दिखाएँ"
+    },
+    "button": "लॉगिन",
+    "create_account": "खाता बनाएं",
+    "email_label": "ईमेल पता",
+    "email_placeholder": "अपना ईमेल दर्ज करें",
+    "errors": {
+      "email_not_registered": "यह ईमेल अभी पंजीकृत नहीं है!",
+      "email_verify_failed": "ईमेल सत्यापित करने में असमर्थ। कृपया पुनः प्रयास करें।",
+      "mobile_not_registered": "यह मोबाइल नंबर पंजीकृत नहीं है।",
+      "phone_not_registered_title": "नंबर पंजीकृत नहीं है",
+      "invalid_phone_title": "अमान्य फ़ोन नंबर",
+      "invalid_phone_desc": "कृपया एक मान्य फ़ोन नंबर दर्ज करें",
+      "firebase_error_title": "Firebase त्रुटि",
+      "firebase_error_desc": "Firebase प्रारंभ नहीं हुआ है। कृपया पृष्ठ रीफ़्रेश करें।",
+      "invalid_otp_title": "अमान्य OTP",
+      "invalid_otp_desc": "कृपया 6 अंकों का मान्य OTP दर्ज करें",
+      "verification_error_title": "सत्यापन त्रुटि",
+      "verification_error_desc": "OTP सत्यापन विफल रहा। कृपया पुनः प्रयास करें।",
+      "verification_failed_title": "सत्यापन विफल"
+    },
+    "forgot_password": "पासवर्ड भूल गए?",
+    "login_failed_toast": "अमान्य ईमेल या पासवर्ड। कृपया पुनः प्रयास करें।",
+    "login_success_toast": "सफलतापूर्वक लॉगिन किया!",
+    "no_account": "क्या आपके पास खाता नहीं है?",
+    "or": "या",
+    "password_label": "पासवर्ड",
+    "password_placeholder": "अपना पासवर्ड दर्ज करें",
+    "remember_me": "मुझे याद रखें",
+    "sign_in": "साइन इन करें",
+    "welcome_subtitle": "जारी रखने के लिए अपने खाते में साइन इन करें",
+    "welcome_title": "वापसी पर स्वागत है",
+    "email_tab": "ईमेल",
+    "mobile_tab": "मोबाइल",
+    "otp_tab": "OTP",
+    "mobile_placeholder": "10 अंकों का मोबाइल नंबर दर्ज करें",
+    "mobile_label": "मोबाइल नंबर",
+    "phone_label": "फ़ोन नंबर",
+    "phone_placeholder": "अपना फ़ोन नंबर दर्ज करें",
+    "send_otp": "OTP भेजें",
+    "send_verification": "सत्यापन कोड भेजें",
+    "otp_placeholder": "OTP दर्ज करें",
+    "verify_and_login": "सत्यापित करें और लॉगिन करें",
+    "back_to_phone": "फ़ोन पर वापस जाएं",
+    "did_not_receive_code": "कोड प्राप्त नहीं हुआ?",
+    "resend_code": "कोड पुनः भेजें"
+  },
+  "logout_alert_description": "जहां आपने छोड़ा था वहां से जारी रखने के लिए आपको फिर से साइन इन करना होगा।",
+  "logout_alert_title": "आप साइन आउट करने वाले हैं",
+  "logout_confirm": "साइन आउट करें",
+  "logout_subtitle": "अपने साइन आउट की पुष्टि करें",
+  "logout_title": "साइन आउट करें",
+  "logout_toast": {
+    "success_desc": "आप सफलतापूर्वक लॉगआउट हो गए हैं",
+    "success_title": "लॉगआउट सफल"
+  },
+  "maintenance": {
+    "estimatedTimeDescription": "हम कुछ ही समय में वापस आने की उम्मीद करते हैं",
+    "estimatedTimeTitle": "अनुमानित समय",
+    "footerMessage": "आपके धैर्य के लिए धन्यवाद! 🙏",
+    "heading": "हम जल्द ही वापस आएंगे!",
+    "metaDescription": "वेबसाइट वर्तमान में रखरखाव के अधीन है। हम जल्द ही वापस आएंगे!",
+    "pageTitle": "साइट रखरखाव में है",
+    "subheading": "हमारी वेबसाइट आपके अनुभव को बेहतर बनाने के लिए निर्धारित रखरखाव के अधीन है। हम जल्द ही ऑनलाइन होंगे!",
+    "workDescription": "बेहतर प्रदर्शन के लिए हमारे सिस्टम को अपग्रेड कर रहे हैं",
+    "workTitle": "हम क्या कर रहे हैं"
+  },
+  "maxSave": "अधिकतम बचत",
+  "max_5_images_5mb_each": "अधिकतम 5 छवियाँ, प्रत्येक 5MB तक",
+  "max_quantity_error_description": "आप केवल {{max}} आइटम(s) तक ही ऑर्डर कर सकते हैं।",
+  "max_quantity_error_title": "अधिकतम मात्रा पार हो गई",
+  "maximum_5_images_allowed": "अधिकतम 5 छवियाँ अनुमत हैं",
+  "minOrder": "न्यूनतम ऑर्डर",
+  "quantityStepSize": "मात्रा कदम",
+  "minStep": "न्यूनतम: {{min}}{{stepText}}",
+  "min_quantity_error_description": "आपको कम से कम {{min}} आइटम(s) का ऑर्डर देना होगा।",
+  "min_quantity_error_title": "न्यूनतम मात्रा तक पहुँचा गया",
+  "mins": "मिनट",
+  "more_options": "+{{count}} और विकल्प",
+  "move_button": "स्थानांतरित करें",
+  "move_error": "आइटम को स्थानांतरित करते समय कुछ गलत हो गया",
+  "move_failed": "आइटम स्थानांतरित करने में विफल",
+  "myOrders": "मेरे ऑर्डर",
+  "na": "उपलब्ध नहीं",
+  "nav": {
+    "about_us": "हमारे बारे में",
+    "brands": "ब्रांड्स",
+    "contact_us": "संपर्क करें",
+    "faqs": "सामान्य प्रश्न",
+    "home": "मुखपृष्ठ",
+    "products": "उत्पाद"
+  },
+  "network_error": "नेटवर्क त्रुटि",
+  "network_error_description": "आपकी समीक्षा जमा करते समय कुछ गलत हो गया। कृपया बाद में पुनः प्रयास करें।",
+  "network_error_title": "नेटवर्क त्रुटि",
+  "no": "नहीं",
+  "noSellerReview": "इस विक्रेता द्वारा अभी तक कोई समीक्षा नहीं दी गई है",
+  "no_active_promo_codes": "कोई सक्रिय प्रोमो कोड नहीं",
+  "no_items": "इस ऑर्डर में कोई आइटम नहीं मिला।",
+  "no_products_available": "आपके स्थान पर वर्तमान में कोई उत्पाद उपलब्ध नहीं है।",
+  "no_products_found": "कोई उत्पाद नहीं मिला",
+  "no_products_found_message": "हम \"{{query}}\" से मेल खाते हुए कोई उत्पाद नहीं ढूंढ सके",
+  "no_transactions_found": "कोई लेन-देन नहीं मिला",
+  "notAvailable": "उपलब्ध नहीं",
+  "offline": {
+    "connection_lost": "कनेक्शन खो गया",
+    "description": "कृपया अपना इंटरनेट कनेक्शन जांचें और पुनः प्रयास करें। सुनिश्चित करें कि आप किसी नेटवर्क से जुड़े हुए हैं।",
+    "help_text": "यदि समस्या बनी रहती है, तो अपने नेटवर्क सेटिंग्स जांचें या नेटवर्क प्रशासक से संपर्क करें।",
+    "no_internet": "कोई इंटरनेट कनेक्शन नहीं",
+    "retrying": "पुनः प्रयास किया जा रहा है...",
+    "try_again": "फिर से प्रयास करें"
+  },
+  "on_the_way": "रास्ते में है",
+  "online": "ऑनलाइन",
+  "only_images_allowed": "केवल छवियाँ अनुमत हैं",
+  "opens_at": "{{time}} बजे खुलता है",
+  "optional": "वैकल्पिक",
+  "order": "ऑर्डर",
+  "orderId": "ऑर्डर: {{id}}",
+  "orderItems": "ऑर्डर आइटम",
+  "orderNote": "ऑर्डर नोट",
+  "orderSummary": "ऑर्डर सारांश",
+  "finalTotal": "कुल योग",
+  "totalPayable": "कुल देय राशि",
+
+  "order_destination": "ऑर्डर गंतव्य",
+  "order_id": "ऑर्डर आईडी",
+  "orders_empty_button": "खरीदारी शुरू करें",
+  "orders_empty_description": "आपने अभी तक कोई ऑर्डर नहीं किया है।",
+  "orders_empty_title": "कोई ऑर्डर नहीं मिला",
+  "origin": "उत्पत्ति",
+  "other": "अन्य",
+  "otp": "ओटीपी",
+  "out_of_stock": "स्टॉक समाप्त",
+  "out_of_stock_message": "यह उत्पाद फिलहाल उपलब्ध नहीं है। कृपया बाद में जाँचें।",
+  "outstanding_quality": "उत्कृष्ट गुणवत्ता",
+  "pageTitle": {
+    "404": "पृष्ठ नहीं मिला",
+    "about-us": "हमारे बारे में",
+    "addresses": "पते",
+    "api": "एपीआई",
+    "brands": "ब्रांड्स",
+    "cart": "कार्ट",
+    "categories": "श्रेणियाँ",
+    "delivery-zones": "डिलीवरी क्षेत्र",
+    "faqs": "सामान्य प्रश्न",
+    "feature-sections": "फ़ीचर सेक्शन",
+    "forgot-password": "पासवर्ड भूल गए",
+    "home": "मुखपृष्ठ",
+    "my-account": "मेरा खाता",
+    "orders": "ऑर्डर",
+    "privacy-policy": "गोपनीयता नीति",
+    "products": "उत्पाद",
+    "refer-and-earn": "रेफ़र करें और कमाएँ",
+    "return-refund-policy": "वापसी और रिफंड नीति",
+    "search": "खोज परिणाम",
+    "shopping-list": "शॉपिंग सूची",
+    "shipping-policy": "शिपिंग नीति",
+    "store-products": "स्टोर उत्पाद",
+    "stores": "स्टोर",
+    "terms-and-conditions": "नियम और शर्तें",
+    "transactions": "लेन-देन",
+    "wallet": "वॉलेट",
+    "wishlists": "इच्छा सूची",
+    "seller-registration": "विक्रेता पंजीकरण"
+  },
+  "pages": {
+    "aboutUs": {
+      "breadcrumb": "हमारे बारे में",
+      "description": "हमारी कंपनी, मिशन और मूल्यों के बारे में अधिक जानें।",
+      "notAvailable": "उपलब्ध नहीं",
+      "title": "हमारे बारे में"
+    },
+    "addresses": {
+      "addFirst": "अपना पहला पता जोड़ें",
+      "addNew": "नया जोड़ें",
+      "errorLoading": "पते लोड करने में त्रुटि",
+      "myAddresses": "मेरे पते",
+      "noAddresses": "अभी तक कोई पता सहेजा नहीं गया है",
+      "noAddressesDesc": "तेज़ चेकआउट और डिलीवरी के लिए अपना पहला पता जोड़ें।",
+      "showingRange": "{{from}} से {{to}} तक {{total}} पतों को दिखा रहे हैं",
+      "subtitle": "तेज़ चेकआउट और डिलीवरी के लिए अपने पते प्रबंधित करें",
+      "total": "कुल",
+      "tryAgain": "फिर से प्रयास करें"
+    },
+    "brandProducts": {
+      "breadcrumb": {
+        "brands": "ब्रांड्स"
+      },
+      "highlight": "{{count}} उत्पाद",
+      "metaDescription": "{{brand}} के {{count}} उत्पाद ब्राउज़ करें।",
+      "metaTitle": "उत्पाद - अपनी पसंद से खरीदें",
+      "noProducts": {
+        "description": "वर्तमान में इस ब्रांड में कोई उत्पाद उपलब्ध नहीं है।",
+        "title": "कोई उत्पाद उपलब्ध नहीं"
+      },
+      "subtitle": "{{brand}} के उत्पाद ब्राउज़ करें।",
+      "title": "{{brand}} उत्पाद"
+    },
+    "brands": {
+      "breadcrumb": {
+        "brands": "ब्रांड्स"
+      },
+      "highlight": "{{count}} ब्रांड्स",
+      "infiniteScroll": "ब्रांड्स",
+      "metaDescription": "हमारे स्टोर में उपलब्ध सभी {{count}} ब्रांड्स ब्राउज़ करें।",
+      "metaTitle": "ब्रांड्स - सभी खोजें",
+      "noBrands": {
+        "description": "वर्तमान में कोई ब्रांड दिखाने के लिए नहीं है।",
+        "title": "कोई ब्रांड उपलब्ध नहीं"
+      },
+      "subtitle": "हमारे सभी ब्रांड्स का संग्रह खोजें",
+      "title": "सभी ब्रांड्स"
+    },
+    "categories": {
+      "highlight": "श्रेणियाँ",
+      "infiniteScroll": "श्रेणियाँ",
+      "noCategories": {
+        "description": "वर्तमान में कोई श्रेणियाँ उपलब्ध नहीं हैं।",
+        "title": "कोई श्रेणी उपलब्ध नहीं"
+      },
+      "subtitle": "हमारे सभी संग्रह की खोज करें",
+      "title": "सभी श्रेणियाँ"
+    },
+    "categoryProducts": {
+      "highlight": "उत्पाद",
+      "infiniteScroll": "उत्पाद",
+      "metaDescription": "{{category}} के {{count}} उत्पाद ब्राउज़ करें।",
+      "metaTitle": "{{category}} उत्पाद - अपनी पसंद से खरीदें",
+      "noProducts": {
+        "description": "यह श्रेणी वर्तमान में खाली है। उत्पाद जोड़े जाने के बाद यहाँ दिखाई देंगे।",
+        "title": "इस श्रेणी में कोई उत्पाद नहीं"
+      },
+      "subtitle": "{{category}} के उत्पाद ब्राउज़ करें।",
+      "title": "श्रेणी उत्पाद"
+    },
+    "deliveryZoneDetail": {
+      "boundaryPoints": "सीमा बिंदु",
+      "bufferTime": "बफ़र समय",
+      "centerCoords": "केंद्र निर्देशांक",
+      "coverageArea": "कवरेज क्षेत्र",
+      "coverageDetails": "कवरेज विवरण",
+      "deliveryFees": "डिलीवरी शुल्क",
+      "deliveryTimes": "डिलीवरी समय",
+      "errorLoading": "ज़ोन लोड करने में त्रुटि",
+      "errorLoadingDesc": "डिलीवरी ज़ोन लोड करने में त्रुटि हुई।",
+      "freeDeliveryAbove": "इससे ऊपर मुफ्त डिलीवरी",
+      "handlingFee": "हैंडलिंग शुल्क",
+      "loadingDescription": "कृपया प्रतीक्षा करें, हम डिलीवरी ज़ोन की जानकारी प्राप्त कर रहे हैं।",
+      "loadingTitle": "ज़ोन विवरण लोड हो रहा है",
+      "metaDescription": "मेटा विवरण",
+      "perKmCharge": "प्रति KM शुल्क",
+      "perStoreFee": "प्रति स्टोर शुल्क",
+      "radius": "त्रिज्या",
+      "regularDelivery": "सामान्य डिलीवरी",
+      "regularTimePerKm": "प्रति KM सामान्य समय",
+      "rushDelivery": "रश डिलीवरी",
+      "rushTimePerKm": "प्रति KM रश समय",
+      "subtitle": "डिलीवरी ज़ोन के बारे में विवरण देखें",
+      "titleSuffix": "डिलीवरी ज़ोन",
+      "zoneInfo": "ज़ोन जानकारी",
+      "zoneNotFound": "ज़ोन नहीं मिला",
+      "zoneNotFoundDesc": "आप जिस डिलीवरी ज़ोन की तलाश कर रहे हैं, वह मौजूद नहीं है।"
+    },
+    "deliveryZones": {
+      "noZonesDescription": "वर्तमान में कोई डिलीवरी ज़ोन उपलब्ध नहीं है।",
+      "noZonesTitle": "कोई डिलीवरी ज़ोन उपलब्ध नहीं",
+      "subtitle": "हमारे सेवा क्षेत्रों की खोज करें",
+      "title": "डिलीवरी ज़ोन",
+      "totalZones": "ज़ोन"
+    },
+    "faqs": {
+      "searchPlaceholder": "सामान्य प्रश्न खोजें...",
+      "subtitle": "हमारी सेवाओं के बारे में सामान्य प्रश्नों के उत्तर खोजें",
+      "title": "सामान्य प्रश्न"
+    },
+    "featureSection": {
+      "defaultTitle": "अपनी पसंद से खरीदें",
+      "metaDescription": "{{title}} के सभी {{count}} उत्पाद ब्राउज़ करें।",
+      "products": "उत्पाद",
+      "subtitle": "यहाँ से सभी उत्पाद ब्राउज़ करें",
+      "titleSuffix": "अपनी पसंद से खरीदें"
+    },
+    "featureSections": {
+      "noSections": "वर्तमान में कोई विशेष सेक्शन उपलब्ध नहीं है।",
+      "sections": "सेक्शन",
+      "subtitle": "हमारे चुने हुए संग्रह ब्राउज़ करें",
+      "title": "विशेष सेक्शन"
+    },
+    "forgotPassword": {
+      "checkEmail": "हमने {{email}} पर पासवर्ड रीसेट लिंक भेजा है",
+      "emailLabel": "ईमेल पता",
+      "emailPlaceholder": "अपना ईमेल पता दर्ज करें",
+      "emailSent": "ईमेल सफलतापूर्वक भेजा गया!",
+      "enterEmail": "कृपया अपना ईमेल पता दर्ज करें",
+      "error": "कोई त्रुटि हुई। कृपया पुनः प्रयास करें।",
+      "failed": "रीसेट ईमेल भेजने में विफल",
+      "goHome": "अभी होम पेज पर जाएँ",
+      "instructions": "कृपया अपना ईमेल जांचें और पासवर्ड रीसेट करने के निर्देशों का पालन करें।",
+      "invalidEmail": "* कृपया एक मान्य ईमेल दर्ज करें",
+      "redirecting": "होम पेज पर पुनर्निर्देशित किया जा रहा है:",
+      "rememberPassword": "क्या आपको अपना पासवर्ड याद है?",
+      "sendLink": "रीसेट लिंक भेजें",
+      "sending": "भेजा जा रहा है...",
+      "signIn": "साइन इन करें",
+      "subtitle": "कोई चिंता नहीं! अपना ईमेल दर्ज करें और हम आपको पासवर्ड रीसेट लिंक भेजेंगे।",
+      "title": "पासवर्ड भूल गए?",
+      "unknownError": "अज्ञात त्रुटि हुई।"
+    },
+    "myAccount": {
+      "alertDesc": "यह स्थायी रूप से आपका खाता हटा देगा।",
+      "alertTitle": "स्थायी हटाना",
+      "confirmText": "हटाएं",
+      "contactInfo": "संपर्क जानकारी",
+      "deleteAccount": "खाता हटाएं",
+      "deleteDesc": "यह क्रिया पूर्ववत नहीं की जा सकती",
+      "headerSubtitle": "अपनी व्यक्तिगत जानकारी और खाता सेटिंग्स प्रबंधित करें",
+      "headerTitle": "मेरा प्रोफ़ाइल",
+      "labels": {
+        "email": "ईमेल पता",
+        "fullName": "पूरा नाम",
+        "memberSince": "सदस्य बनने की तिथि",
+        "phone": "फोन नंबर",
+        "referral": "मित्र का रेफरल",
+        "verified": "सत्यापित",
+        "notVerified": "असत्यापित",
+        "resendVerification": "सत्यापन फिर से भेजें",
+        "emailUpdateSuccess": "आपके नए ईमेल पर सत्यापन लिंक भेज दिया गया है।",
+        "update": "ईमेल अपडेट करें",
+        "updatePhone": "फोन अपडेट करें",
+        "verify": "सत्यापित करें",
+        "enterOtp": "ओटीपी दर्ज करें",
+        "otpSentTitle": "ओटीपी भेजा गया",
+        "otpSentDesc": "सत्यापन कोड आपके मोबाइल पर भेजा गया है।",
+        "phoneUpdateSuccess": "फोन नंबर सफलतापूर्वक अपडेट और सत्यापित किया गया।",
+        "otpSentTo": "भेजा गया ओटीपी दर्ज करें"
+      },
+      "personalInfo": "व्यक्तिगत जानकारी",
+      "saveChanges": "परिवर्तन सहेजें",
+      "toasts": {
+        "deleteFailedDesc": "आपका खाता हटाने का प्रयास करते समय कोई समस्या हुई।",
+        "deleteFailedTitle": "खाता हटाने में विफल",
+        "deleteSuccessDesc": "आपका खाता स्थायी रूप से हटा दिया गया है। धन्यवाद!",
+        "deleteSuccessTitle": "खाता सफलतापूर्वक हटाया गया",
+        "demoModeDesc": "डेमो मोड में यह कार्रवाई की अनुमति नहीं है",
+        "demoModeTitle": "डेमो मोड",
+        "errorDesc": "कोई त्रुटि हुई। कृपया बाद में पुनः प्रयास करें।",
+        "errorTitle": "अप्रत्याशित त्रुटि",
+        "successDesc": "आपका डेटा सफलतापूर्वक अपडेट किया गया।",
+        "successTitle": "सफलता",
+        "updateFailedDesc": "आपका डेटा अपडेट करते समय कोई समस्या हुई।",
+        "updateFailedTitle": "अपडेट विफल"
+      }
+    },
+    "shoppingList": {
+      "headerTitle": "शॉपिंग सूची",
+      "headerSubtitle": "कीवर्ड विचारों को तैयार खरीदारी सूची में बदलें।",
+      "keywordInputLabel": "कीवर्ड जोड़ें",
+      "keywordInputPlaceholder": "उदा: ऑर्गेनिक दूध, डार्क चॉकलेट, ताज़ी ब्रेड",
+      "keywordHelper": "कीवर्ड टाइप करें और एंटर दबाएँ या अल्पविराम से कई जोड़ें।",
+      "addKeyword": "कीवर्ड जोड़ें",
+      "fetchProducts": "उत्पाद खोजें",
+      "refreshResults": "परिणाम रीफ़्रेश करें",
+      "clearAll": "सब साफ करें",
+      "keywordsCount": "{{count}} कीवर्ड तैयार",
+      "emptyKeywordsTitle": "पहले एक कीवर्ड जोड़ें",
+      "emptyKeywordsDescription": "व्यक्तिगत शॉपिंग सूची बनाने के लिए कम से कम एक कीवर्ड जोड़ें।",
+      "locationMissing": "सही उपलब्धता के लिए अपना डिलीवरी स्थान सेट करें।",
+      "errorTitle": "उत्पाद लोड नहीं हो पाए",
+      "errorDescription": "कृपया पुनः प्रयास करें या अपने कीवर्ड बदलें।",
+      "emptyResultsTitle": "कोई उत्पाद नहीं मिला",
+      "emptyResultsDescription": "अलग कीवर्ड आज़माएँ या खोज शब्द बढ़ाएँ।",
+      "sectionTitle": "“{{keyword}}” के लिए परिणाम",
+      "productsCount": "{{count}} उत्पाद"
+    },
+    "notFound": {
+      "heading": "ओह! पृष्ठ नहीं मिला",
+      "home": {
+        "subtitle": "घर जैसा कोई स्थान नहीं...",
+        "title": "मुखपृष्ठ"
+      },
+      "subheading": "लगता है कि आप जिस पृष्ठ की तलाश कर रहे हैं, वह मौजूद नहीं है। चिंता न करें, चलिए आपको वापस ले चलते हैं!"
+    },
+    "order": {
+      "backToList": "ऑर्डर पर वापस जाएँ",
+      "details": "ऑर्डर विवरण",
+      "detailsSubtitle": "अपने ऑर्डर की जानकारी और स्थिति देखें",
+      "errorLoading": "ऑर्डर लोड करने में त्रुटि",
+      "loading": "ऑर्डर विवरण लोड हो रहा है...",
+      "notFound": "ऑर्डर नहीं मिला",
+      "notFoundDesc": "आप जिस ऑर्डर की तलाश कर रहे हैं, वह मौजूद नहीं है या हटा दिया गया है।"
+    },
+    "ordersPage": {
+      "emptyMessage": "आपके पास अभी तक कोई ऑर्डर नहीं है। खरीदारी शुरू करें ताकि वे यहाँ दिखें।",
+      "emptyTitle": "कोई ऑर्डर नहीं मिला",
+      "errorTitle": "ऑर्डर लोड करने में त्रुटि",
+      "loading": "आपके ऑर्डर लोड हो रहे हैं...",
+      "subtitle": "अपने ऑर्डर की जानकारी और स्थिति प्रबंधित करें",
+      "tryAgain": "फिर से प्रयास करें",
+      "reorderSuccess": "ऑर्डर की चीज़ें सफलतापूर्वक कार्ट में जोड़ दी गई हैं!",
+      "reorderFailed": "फिर से ऑर्डर करने में विफल। कृपया पुन: प्रयास करें।"
+    },
+    "privacyPolicy": {
+      "description": "अपनी गोपनीयता अधिकारों और डेटा उपयोग के बारे में जानें।",
+      "notAvailable": "उपलब्ध नहीं",
+      "title": "गोपनीयता नीति"
+    },
+    "referAndEarnPage": {
+      "header": {
+        "subtitle": "अपने दोस्तों को आमंत्रित करें और इनाम प्राप्त करें",
+        "title": "रेफर करें और कमाएँ"
+      },
+      "hero": {
+        "title": "अपने दोस्तों को रेफर करें और इनाम कमाएँ",
+        "description": "अपने रेफरल कोड का उपयोग करके अपने दोस्तों को आमंत्रित करें और जब वे साइन अप करके अपना पहला ऑर्डर दें तो इनाम प्राप्त करें।",
+        "earn": "{{rewardCap}} तक इनाम कमाएँ!",
+        "instantRewards": "तुरंत इनाम",
+        "perReferral": "प्रति रेफरल",
+        "referrals": "रेफरल्स",
+        "friendsCodeLabel": "मित्र का कोड",
+        "rewardLine": "{{rewardCap}} तक कमाएँ"
+      },
+      "howItWorks": {
+        "bonusDescription": "आपके मित्र को उनके पहले ऑर्डर पर {{refereeValue}} की छूट मिलेगी।",
+        "bonusRewards": "बोनस इनाम!",
+        "stepDescription": "यहाँ चरण का विवरण दें।",
+        "stepTitle": "चरण {{step}}",
+        "title": "यह कैसे काम करता है",
+        "steps": {
+          "shareCode": {
+            "title": "अपना कोड साझा करें",
+            "description": "अपने रेफरल कोड को दोस्तों को भेजें"
+          },
+          "friendSignsUp": {
+            "title": "मित्र साइन अप करें",
+            "description": "वे आपके रेफरल कोड का उपयोग करके पंजीकरण करते हैं"
+          },
+          "earnRewards": {
+            "title": "इनाम प्राप्त करें",
+            "description": "जब वे अपना पहला ऑर्डर पूरा करते हैं, तो आप इनाम कमाते हैं (कुल {{rewardCap}} तक)"
+          }
+        }
+      },
+      "progress": {
+        "nextMilestone": "अगले लक्ष्य की प्रगति",
+        "referMore": "{{remaining}} और दोस्तों को रेफर करें और {{currency}}{{bonus}} बोनस अनलॉक करें!",
+        "subtitle": "आप बहुत अच्छा कर रहे हैं! अधिक इनाम पाने के लिए साझा करते रहें।",
+        "title": "रेफरल प्रगति"
+      },
+      "referralCode": {
+        "copySuccess": "कॉपी किया गया!",
+        "referralLink": "रेफरल लिंक",
+        "shareSocial": "सोशल मीडिया पर साझा करें",
+        "title": "अपना कोड साझा करें",
+        "yourCode": "आपका रेफरल कोड",
+        "helper": "इस कोड को कॉपी करें और दोस्तों को भेजें।"
+      },
+      "stats": {
+        "pending": "लंबित",
+        "successful": "सफल",
+        "totalEarnings": "कुल कमाई",
+        "totalReferrals": "कुल रेफरल्स"
+      }
+    },
+    "returnRefundPolicy": {
+      "description": "हमारी वापसी प्रक्रिया और रिफंड शर्तों के बारे में जानें।",
+      "title": "वापसी और रिफंड नीति"
+    },
+    "shippingPolicy": {
+      "description": "हमारे शिपिंग तरीके, डिलीवरी समय और लागत के बारे में जानें।",
+      "title": "शिपिंग नीति"
+    },
+    "storeProductsPage": {
+      "breadcrumbs": {
+        "store": "स्टोर",
+        "stores": "स्टोर"
+      },
+      "highlight": "{{count}} उत्पाद",
+      "loadMoreButton": "और लोड करें",
+      "noProducts": {
+        "description": "वर्तमान में इस स्टोर में कोई उत्पाद उपलब्ध नहीं है।",
+        "title": "कोई उत्पाद उपलब्ध नहीं"
+      },
+      "refetchButton": "उत्पाद पुनः प्राप्त करें",
+      "skeleton": "उत्पाद लोड हो रहे हैं...",
+      "subtitle": "इस स्टोर के सभी उत्पाद ब्राउज़ करें",
+      "title": "स्टोर उत्पाद"
+    },
+    "stores": {
+      "highlight": "{{count}} स्टोर",
+      "noStores": {
+        "description": "वर्तमान में दिखाने के लिए कोई स्टोर नहीं हैं।",
+        "title": "कोई स्टोर उपलब्ध नहीं"
+      },
+      "search_placeholder": "स्टोर खोजें...",
+      "subtitle": "हमारे सभी स्टोर संग्रह का अन्वेषण करें",
+      "title": "सभी स्टोर"
+    },
+    "termsAndConditions": {
+      "breadcrumb": "सेवा की शर्तें",
+      "description": "हमारी सेवाओं के उपयोग के नियम और शर्तें।",
+      "notAvailable": "उपलब्ध नहीं",
+      "title": "सेवा की शर्तें"
+    },
+    "transactionsPage": {
+      "header": {
+        "subtitle": "अपने लेनदेन की जानकारी और स्थिति देखें",
+        "title": "मेरे लेनदेन"
+      },
+      "totalFound": "{{total}} मिला"
+    },
+    "walletPage": {
+      "header": {
+        "subtitle": "अपना वॉलेट बैलेंस प्रबंधित करें, लेनदेन ट्रैक करें, और क्रेडिट देखें।",
+        "title": "मेरा वॉलेट"
+      },
+      "table": {
+        "title": "वॉलेट लेनदेन"
+      },
+      "totalFound": "{{total}} लेनदेन मिले"
+    },
+    "wishlistsPage": {
+      "confirmDelete": "क्या आप वाकई \"{{title}}\" हटाना चाहते हैं? यह क्रिया पूर्ववत नहीं की जा सकती।",
+      "errors": {
+        "deleteFailed": "विशलिस्ट हटाने में विफल",
+        "fetchDetails": "विशलिस्ट विवरण प्राप्त करने में विफल",
+        "fetchFailed": "विशलिस्ट प्राप्त करने में विफल",
+        "invalidTitle": "कृपया एक मान्य विशलिस्ट नाम दर्ज करें",
+        "network": "नेटवर्क त्रुटि हुई",
+        "removeItem": "विशलिस्ट से आइटम हटाने में विफल",
+        "updateFailed": "विशलिस्ट अपडेट करने में विफल"
+      }
+    },
+    "sellerRegister": {
+      "pageTitle": "विक्रेता पंजीकरण",
+      "pageSubtitle": "विक्रेता के रूप में पंजीकरण करें और हमारे साथ अपना व्यवसाय बढ़ाएँ।",
+      "personalInfo": "व्यक्तिगत जानकारी",
+      "requiredDocs": "आवश्यक दस्तावेज़",
+      "businessAddress": "व्यवसाय का पता",
+      "form": {
+        "sellerName": "विक्रेता का नाम",
+        "mobile": "मोबाइल नंबर",
+        "email": "ईमेल पता",
+        "password": "पासवर्ड",
+        "confirmPassword": "पासवर्ड की पुष्टि करें",
+        "address": "पता",
+        "city": "शहर",
+        "landmark": "नज़दीकी चिन्ह",
+        "state": "राज्य",
+        "zipcode": "पिन कोड",
+        "country": "देश",
+        "latitude": "अक्षांश",
+        "longitude": "देशांतर"
+      },
+      "placeholder": {
+        "sellerName": "अपना पूरा नाम दर्ज करें",
+        "mobile": "अपना मोबाइल नंबर दर्ज करें",
+        "email": "अपना ईमेल पता दर्ज करें",
+        "address": "जैसे 123, श्री कॉम्प्लेक्स, स्टेशन रोड",
+        "city": "जैसे भुज",
+        "landmark": "जैसे बस स्टैंड के पास",
+        "state": "जैसे गुजरात",
+        "zipcode": "जैसे 370001",
+        "country": "जैसे भारत",
+        "latitude": "जैसे 23.241999",
+        "longitude": "जैसे 69.666881"
+      },
+      "docs": {
+        "businessLicense": "व्यवसाय लाइसेंस",
+        "articlesOfIncorporation": "संविधान के अनुच्छेद",
+        "nationalId": "राष्ट्रीय पहचान पत्र",
+        "authorizedSignature": "अधिकृत हस्ताक्षर"
+      },
+      "button": {
+        "chooseFile": "फ़ाइल चुनें",
+        "register": "पंजीकरण करें",
+        "reset": "रीसेट करें"
+      },
+      "toast": {
+        "invalidFileTitle": "अमान्य फ़ाइल प्रकार",
+        "invalidFileDescription": "केवल JPEG, PNG, JPG या WEBP फ़ाइलें ही अनुमत हैं।",
+        "validationErrorTitle": "मान्यकरण त्रुटि",
+        "validationErrorDesc": "सबमिट करने से पहले हाइलाइट किए गए फ़ील्ड्स को ठीक करें।",
+        "successTitle": "सफलता!",
+        "successDesc": "आपका विक्रेता पंजीकरण सफल रहा।",
+        "errorTitle": "त्रुटि",
+        "genericErrorDesc": "पंजीकरण विफल रहा। कृपया पुनः प्रयास करें।",
+        "unexpectedError": "एक अप्रत्याशित त्रुटि हुई। कृपया बाद में पुनः प्रयास करें।",
+        "missingDocumentsTitle": "दस्तावेज़ गुम",
+        "missingDocumentsDesc": "कृपया अपलोड करें: {{files}}",
+        "invalidFileTypeTitle": "अमान्य फ़ाइल प्रकार",
+        "invalidFileTypeDesc": "केवल JPEG, PNG, JPG या WEBP अनुमत है। अमान्य: {{types}}"
+      },
+      "error": {
+        "required": "आवश्यक",
+        "passwordMismatch": "पासवर्ड मेल नहीं खाते",
+        "invalidFile": "अमान्य फ़ाइल प्रकार"
+      }
+    },
+    "enhancedSellerMarketing": {
+      "hero": {
+        "badge": "हमारे साथ अपना ब्रांड बढ़ाएँ",
+        "titleMain": "आपकी सफलता को सशक्त बनाना",
+        "titleAccent": "डिजिटल विशेषज्ञता",
+        "description": "हाइपरलोकल कॉमर्स के लिए डिज़ाइन किया गया। ऑनलाइन ऑर्डरिंग सक्षम करें, अपना कैटलॉग प्रबंधित करें, और अपनी संचालन सुविधा के अनुसार पूर्ति विकल्प जोड़ें।",
+        "explore": "और जानें",
+        "registerNow": "अभी रजिस्टर करें",
+        "bubble": {
+          "title": "टूलकिट",
+          "subtitle": "विक्रेता उपकरण"
+        },
+        "chips": {
+          "easyOnboarding": "आसान ऑनबोर्डिंग",
+          "deliveryPartnerSupport": "डिलीवरी पार्टनर सपोर्ट",
+          "reliableSettlements": "विश्वसनीय भुगतान निपटान"
+        }
+      },
+      "marquee": {
+        "contentMarketing": "कंटेंट मार्केटिंग",
+        "socialMediaMarketing": "सोशल मीडिया मार्केटिंग",
+        "seo": "सर्च इंजन ऑप्टिमाइज़ेशन",
+        "businessGrowth": "व्यापार वृद्धि"
+      },
+      "about": {
+        "badge": "हमारे बारे में",
+        "titleMain": "आपकी सफलता को सशक्त बनाना",
+        "titleAccent": "डिजिटल विशेषज्ञता",
+        "description": "हम हाइपरलोकल पूर्ति के माध्यम से विक्रेताओं को पास के ग्राहकों से जोड़कर स्थानीय व्यापार का समर्थन करते हैं। यह प्लेटफ़ॉर्म लॉजिस्टिक्स, भुगतान और तकनीक को सरल बनाते हुए व्यवसायों को बढ़ने में मदद करता है।",
+        "button": "हमारे बारे में",
+        "metrics": {
+          "marketingGrowth": "मार्केटिंग और व्यापार वृद्धि",
+          "creativityInnovation": "रचनात्मकता और नवाचार",
+          "businessFinanceMgmt": "व्यवसाय और वित्तीय प्रबंधन"
+        }
+      },
+      "benefits": {
+        "badge": "क्यों चुनें हमें",
+        "title": "सफलता के लिए आवश्यक सब कुछ",
+        "description": "बेहतरीन उत्पाद बेचने पर ध्यान दें, बाकी हम संभालते हैं",
+        "items": {
+          "deliveryIntegrations": {
+            "title": "डिलीवरी इंटीग्रेशन",
+            "desc": "अपने पसंदीदा डिलीवरी पार्टनर्स के साथ काम करें",
+            "metric": "लचीला"
+          },
+          "flexibleOnboarding": {
+            "title": "लचीला ऑनबोर्डिंग",
+            "desc": "कॉन्फ़िगरेबल आवश्यकताओं के साथ जल्दी शुरू करें",
+            "metric": "कॉन्फ़िगरेबल"
+          },
+          "localFulfillment": {
+            "title": "स्थानीय पूर्ति",
+            "desc": "पास के ऑर्डर के लिए अनुकूलित",
+            "metric": "हाइपरलोकल"
+          },
+          "businessInsights": {
+            "title": "व्यापार इनसाइट्स",
+            "desc": "प्रदर्शन समझने के लिए एनालिटिक्स",
+            "metric": "इनसाइट्स"
+          },
+          "trustedPayments": {
+            "title": "विश्वसनीय भुगतान",
+            "desc": "सुरक्षित निपटान प्रवाह का समर्थन",
+            "metric": "सुरक्षित"
+          },
+          "customerReach": {
+            "title": "ग्राहक पहुंच",
+            "desc": "स्थानीय खरीदारों से जुड़ें",
+            "metric": "स्थानीय"
+          }
+        }
+      },
+      "how": {
+        "title": "3 आसान चरणों में बिक्री शुरू करें",
+        "subtitle": "जल्दी शुरुआत करें",
+        "steps": {
+          "register": {
+            "title": "रजिस्टर करें और सत्यापित करें",
+            "desc": "सरल पंजीकरण और सत्यापन"
+          },
+          "list": {
+            "title": "उत्पाद सूचीबद्ध करें",
+            "desc": "हमारे आसान टूल्स से उत्पाद जोड़ें"
+          },
+          "start": {
+            "title": "बिक्री शुरू करें",
+            "desc": "ऑर्डर प्राप्त करें, पार्टनर्स या अपनी टीम से पूर्ति करें"
+          }
+        }
+      },
+      "fulfillment": {
+        "title": "लचीले पूर्ति विकल्प",
+        "desc": "अपने पसंदीदा डिलीवरी पार्टनर्स को इंटीग्रेट करें या अपनी टीम का उपयोग करें। अपनी संचालन के अनुसार अनुभव कॉन्फ़िगर करें।",
+        "items": {
+          "partnerIntegrations": {
+            "title": "पार्टनर इंटीग्रेशन",
+            "desc": "थर्ड-पार्टी प्रदाताओं से जुड़ें"
+          },
+          "realtimeTracking": {
+            "title": "रीयल-टाइम ट्रैकिंग",
+            "desc": "ऑर्डर स्थिति ट्रैक करें"
+          },
+          "policies": {
+            "title": "कॉन्फ़िगरेबल नीतियाँ",
+            "desc": "फीस, SLA और नियम सेट करें"
+          }
+        }
+      },
+      "testimonials": {
+        "title": "हमारे विक्रेता क्या कहते हैं",
+        "subtitle": "वास्तविक विक्रेताओं की वास्तविक कहानियाँ",
+        "items": {
+          "localSeller": {
+            "name": "स्थानीय विक्रेता",
+            "business": "किराना",
+            "text": "ऑनबोर्डिंग और कैटलॉग प्रबंधन सरल था।"
+          },
+          "bakeryOwner": {
+            "name": "बेकरी मालिक",
+            "business": "बेकरी",
+            "text": "लचीले डिलीवरी विकल्प हमारे संचालन के अनुकूल हैं।"
+          },
+          "electronicsShop": {
+            "name": "इलेक्ट्रॉनिक्स दुकान",
+            "business": "इलेक्ट्रॉनिक्स",
+            "text": "इनसाइट्स ने प्रक्रियाओं को अनुकूलित करने में मदद की।"
+          }
+        }
+      },
+      "cta": {
+        "title": "क्या आप अपनी सफलता की कहानी शुरू करने के लिए तैयार हैं?",
+        "desc": "नीचे अपने व्यवसाय विवरण सबमिट करके शुरू करें।",
+        "registerLabel": "📋 नीचे अपना व्यवसाय पंजीकृत करें"
+      }
+    }
+  },
+  "partially_refunded": "आंशिक रूप से रिफंड किया गया",
+  "payment": "भुगतान",
+  "paymentDetails": "भुगतान विवरण",
+  "paymentMethod": "भुगतान विधि",
+  "paymentStatus": "भुगतान स्थिति",
+  "payment_id": "भुगतान आईडी",
+  "payment_method": "भुगतान विधि",
+  "payment_status": "भुगतान स्थिति",
+  "payments": {
+    "cod": {
+      "name": "डिलीवरी पर नकद भुगतान",
+      "tagline": "अपने दरवाजे पर भुगतान करें।"
+    },
+    "directBankTransfer": {
+      "name": "प्रत्यक्ष बैंक ट्रांसफर",
+      "tagline": "हमारे बैंक खाते में सीधे ट्रांसफर करें।"
+    },
+    "flutterwave": {
+      "name": "Flutterwave से भुगतान करें",
+      "tagline": "तेज़ और सुरक्षित भुगतान।"
+    },
+    "paypal": {
+      "name": "PayPal से भुगतान करें",
+      "tagline": "विश्व स्तर पर विश्वसनीय भुगतान समाधान।"
+    },
+    "paystack": {
+      "name": "Paystack से भुगतान करें",
+      "tagline": "स्मार्ट और सरल भुगतान।"
+    },
+    "phonepe": {
+      "name": "PhonePe से भुगतान करें",
+      "tagline": "UPI और वॉलेट भुगतान को आसान बनाएं।"
+    },
+    "razorpay": {
+      "name": "Razorpay से भुगतान करें",
+      "tagline": "भारत का सबसे लोकप्रिय गेटवे।"
+    },
+    "stripe": {
+      "name": "Stripe से भुगतान करें",
+      "tagline": "वैश्विक स्तर पर सुरक्षित कार्ड भुगतान।"
+    }
+  },
+  "pending": "लंबित",
+  "phoneInput": {
+    "error": {
+      "invalidLength": "फोन नंबर {{max}} अंकों का होना चाहिए",
+      "required": "कृपया अपना मोबाइल नंबर दर्ज करें"
+    },
+    "label": "मोबाइल",
+    "placeholder": "अपना फोन नंबर दर्ज करें"
+  },
+  "phone_check": {
+    "check_error": "फोन उपलब्धता की जांच में त्रुटि",
+    "invalid_phone": "कृपया एक मान्य फोन नंबर दर्ज करें",
+    "phone_exists": "इस फोन नंबर से एक खाता पहले से मौजूद है"
+  },
+  "placedOn": "ऑर्डर किया गया दिनांक",
+  "please_login": "कृपया जारी रखने के लिए लॉगिन करें!",
+  "please_select_payment_method": "कृपया भुगतान विधि चुनें!",
+  "poor_quality": "खराब गुणवत्ता",
+  "price": "कीमत",
+  "unit_price": "इकाई मूल्य",
+  "productFaqs": {
+    "error": "सामान्य प्रश्न लोड करने में त्रुटि।",
+    "faqAriaLabel": "सामान्य प्रश्न",
+    "noData": "इस उत्पाद के लिए कोई सामान्य प्रश्न उपलब्ध नहीं हैं।",
+    "searchAriaLabel": "सामान्य प्रश्न खोजें",
+    "searchPlaceholder": "सामान्य प्रश्न खोजें...",
+    "subtitle": "कुल {{total}} में से {{count}} परिणाम दिखा रहे हैं।",
+    "title": "सामान्य प्रश्न",
+    "noFaqsYet": "कोई प्रश्न उपलब्ध नहीं है",
+    "noFaqsDescription": "इस उत्पाद के लिए अभी तक कोई प्रश्न नहीं पूछा गया है।",
+    "noSearchResults": "आपकी खोज से मेल खाने वाला कोई प्रश्न नहीं मिला। कृपया अलग कीवर्ड आज़माएँ।"
+  },
+  "productFilter": {
+    "applyFilters": "फ़िल्टर लागू करें",
+    "clearAll": "सभी साफ़ करें",
+    "filters": "फ़िल्टर",
+    "filtersAndSort": "फ़िल्टर और क्रमबद्ध करें",
+    "productsCount": "{{count}} उत्पाद",
+    "productsFound": "{{count}} उत्पाद मिले",
+    "sort": {
+      "relevance": "प्रासंगिकता",
+      "priceLowToHigh": "कीमत: कम से अधिक",
+      "priceHighToLow": "कीमत: अधिक से कम",
+      "highestRated": "सर्वाधिक रेटेड",
+      "bestSeller": "सर्वाधिक बिकने वाला",
+      "featured": "विशेष उत्पाद",
+      "recommended": "अनुशंसित"
+    },
+    "sortBy": "क्रमबद्ध करें"
+  },
+  "productReviews": {
+    "error": "समीक्षाएँ लोड करने में त्रुटि।",
+    "noData": "इस उत्पाद के लिए कोई समीक्षा उपलब्ध नहीं है।",
+    "reviewImageAlt": "समीक्षा छवि {{index}}",
+    "sort": {
+      "latest": "नवीनतम",
+      "oldest": "पुरानी"
+    },
+    "sortAriaLabel": "के अनुसार क्रमबद्ध करें",
+    "subtitle": "कुल {{total}} में से {{count}} समीक्षाएँ दिखा रहे हैं।",
+    "title": "रेटिंग और समीक्षाएँ ({{count}})",
+    "noReviewsYet": "अभी तक कोई समीक्षा नहीं",
+    "noReviewsDescription": "इस उत्पाद को अभी तक कोई समीक्षा नहीं मिली है। अपना अनुभव साझा करने वाले पहले व्यक्ति बनें!"
+  },
+  "product_image_alt": "उत्पाद छवि",
+  "product_modal": {
+    "add_to_cart_title": "कार्ट में जोड़ें",
+    "cancel": "रद्द करें",
+    "constraints": "न्यूनतम: {{min}}, चरण: {{step}}",
+    "discount_percent": "{{percent}}% छूट",
+    "in_cart": "कार्ट में",
+    "low_stock_alert": "जल्दी करें! केवल {{stock}} बचे हैं।",
+    "out_of_stock": "स्टॉक में नहीं",
+    "qty": "मात्रा",
+    "save": "{{amount}} बचाएं",
+    "select_options": "विकल्प चुनें",
+    "sku": "SKU: {{sku}}",
+    "stock": "स्टॉक: {{stock}} उपलब्ध",
+    "subtotal": "उप-योग ({{count}} आइटम)",
+    "total_savings": "कुल बचत",
+    "untitled": "बिना नाम का उत्पाद",
+    "addons_required_description": "जारी रखने के लिए कृपया आवश्यक एड-ऑन चुनें।",
+    "addons_required_title": "आवश्यक चयन",
+    "required": "आवश्यक",
+    "more": "+ {{count}} और",
+    "step_of": "चरण {{current}} {{total}} का",
+    "continue": "जारी रखें",
+    "update_cart_item": "आइटम अपडेट करें"
+  },
+  "products": "उत्पाद",
+  "products_count": "{{count}} उत्पाद",
+  "profile": "प्रोफ़ाइल",
+  "profileBtn": {
+    "addresses": "पते",
+    "logout": "लॉग आउट",
+    "myAccount": "मेरा खाता",
+    "myOrders": "मेरे ऑर्डर",
+    "notifications": "सूचनाएं",
+    "referAndEarn": "रेफर और कमाएँ",
+    "signedInAs": "के रूप में साइन इन किया गया",
+    "transactions": "लेन-देन",
+    "wallet": "वॉलेट"
+  },
+  "promoCode": {
+    "applied": "सफलतापूर्वक लागू किया गया",
+    "appliedSuccess": "प्रोमो कोड सफलतापूर्वक लागू किया गया",
+    "error": "प्रोमो कोड लागू करने में विफल। कृपया पुनः प्रयास करें।",
+    "invalid": "अमान्य प्रोमो कोड",
+    "invalidMessage": "प्रोमो कोड अमान्य है, कृपया इसे हटाएं।",
+    "placeholder": "प्रोमो कोड दर्ज करें",
+    "removed": "प्रोमो कोड हटाया गया",
+    "sectionDescription": "छूट पाने के लिए प्रोमो कोड लागू करें",
+    "sectionTitle": "प्रोमो कोड",
+    "selectAddress": "इसे लागू करने के लिए कृपया एक पता चुनें।",
+    "pleaseSelectAddress": "कृपया लागू करने से पहले पता चुनें।"
+  },
+  "promoDiscount": "प्रोमो छूट",
+  "qty": "मात्रा",
+  "qtyInput": {
+    "maxLimitDescription": "आप {{max}} से अधिक ऑर्डर नहीं कर सकते",
+    "maxLimitTitle": "अधिकतम सीमा पहुंची",
+    "minLimitDescription": "आप {{min}} से कम ऑर्डर नहीं कर सकते",
+    "minLimitTitle": "न्यूनतम सीमा पहुंची"
+  },
+  "quantity": "मात्रा:",
+  "radius": "त्रिज्या:",
+  "rate_your_experience": "अपने अनुभव को रेट करें",
+  "rating": "{{ratings}} रेटिंग",
+  "ratings": "रेटिंग्स",
+  "recent_searches": "हाल की खोजें",
+  "refresh": "रिफ्रेश करें",
+  "refresh_location": "स्थान रिफ्रेश करें",
+  "refunded": "रिफंड किया गया",
+  "register_modal": {
+    "buttons": {
+      "back_to_details": "विवरण पर वापस जाएं",
+      "get_started": "शुरू करें",
+      "resend_code": "कोड पुनः भेजें",
+      "send_verification": "सत्यापन कोड भेजें",
+      "verify_create": "सत्यापित करें और खाता बनाएं",
+      "verify": "सत्यापित करें",
+      "verified": "सत्यापित",
+      "verify_code": "कोड सत्यापित करें",
+      "register": "रजिस्टर करें"
+    },
+    "fields": {
+      "confirmPassword": {
+        "label": "पासवर्ड की पुष्टि करें",
+        "placeholder": "पासवर्ड की पुष्टि करें"
+      },
+      "email": {
+        "label": "ईमेल",
+        "placeholder": "अपना ईमेल दर्ज करें"
+      },
+      "name": {
+        "label": "पूरा नाम",
+        "placeholder": "अपना नाम दर्ज करें"
+      },
+      "otp": {
+        "errors": {
+          "required": "कृपया सत्यापन कोड दर्ज करें"
+        },
+        "placeholder": "ओटीपी दर्ज करें"
+      },
+      "password": {
+        "description": "कम से कम 8 वर्ण होने चाहिए",
+        "label": "पासवर्ड",
+        "placeholder": "पासवर्ड दर्ज करें"
+      },
+      "phone": {
+        "label": "फोन",
+        "placeholder": "अपना फोन नंबर दर्ज करें"
+      },
+      "referralCode": {
+        "label": "रेफरल कोड",
+        "placeholder": "रेफरल कोड दर्ज करें"
+      }
+    },
+    "links": {
+      "login": "लॉगिन"
+    },
+    "messages": {
+      "account_created": "खाता सफलतापूर्वक बनाया गया!",
+      "already_account": "क्या पहले से खाता है?",
+      "did_not_receive_code": "कोड नहीं मिला?",
+      "or": "या",
+      "start_using": "अब अपना खाता उपयोग करना शुरू करें"
+    },
+    "steps": {
+      "complete": {
+        "subtitle": "",
+        "title": "सफलता"
+      },
+      "details": {
+        "subtitle": "शुरू करने के लिए अपने विवरण दर्ज करें",
+        "title": "साइन अप करें"
+      },
+      "otp": {
+        "subtitle": "{{phoneNumber}} पर भेजा गया कोड दर्ज करें",
+        "title": "फोन सत्यापित करें"
+      }
+    },
+    "toasts": {
+      "firebase_error": {
+        "description": "Firebase प्रारंभ नहीं हुआ है। कृपया पुनः प्रयास करें।",
+        "title": "Firebase त्रुटि"
+      },
+      "invalid_otp": {
+        "description": "कृपया एक मान्य 6-अंकीय सत्यापन कोड दर्ज करें",
+        "title": "अमान्य ओटीपी"
+      },
+      "invalid_phone": {
+        "description": "कृपया एक मान्य फोन नंबर दर्ज करें",
+        "title": "मान्यकरण त्रुटि"
+      },
+      "validating_info": {
+        "description": "आपकी जानकारी की पुष्टि की जा रही है...",
+        "title": "कृपया प्रतीक्षा करें"
+      },
+      "validation_error": {
+        "description": "आगे बढ़ने से पहले सभी मान्यकरण त्रुटियाँ ठीक करें",
+        "title": "मान्यकरण त्रुटि"
+      },
+      "otp_sent": {
+        "description": "सत्यापन कोड आपके फोन पर भेज दिया गया है",
+        "title": "ओटीपी भेज दिया गया"
+      },
+      "otp_verified": {
+        "description": "आपका फोन नंबर सफलतापूर्वक सत्यापित हो गया है",
+        "title": "ओटीपी सत्यापित"
+      },
+      "verification_error": {
+        "description": "ओटीपी सत्यापित करने में विफल",
+        "title": "सत्यापन त्रुटि"
+      }
+    }
+  },
+  "register_toast": {
+    "error_desc": "एक अप्रत्याशित त्रुटि हुई। कृपया बाद में पुनः प्रयास करें।",
+    "error_title": "पंजीकरण त्रुटि",
+    "failed_title": "पंजीकरण विफल",
+    "success_desc": "आपने सफलतापूर्वक पंजीकरण कर लिया है। स्वागत है!",
+    "success_title": "पंजीकरण सफल!"
+  },
+  "remove": "हटाएं",
+  "remove_item": "आइटम हटाएं",
+  "request_sent": "अनुरोध भेजा गया",
+  "resend_otp_toast": {
+    "invalid_phone_desc": "कृपया देश कोड के साथ एक मान्य फोन नंबर दर्ज करें (उदा. +911234567890)",
+    "invalid_phone_title": "अमान्य फोन नंबर",
+    "otp_resent_desc": "नया सत्यापन कोड आपके फोन पर भेजा गया है",
+    "otp_resent_title": "ओटीपी पुनः भेजा गया",
+    "recaptcha_error_desc": "reCAPTCHA सत्यापन प्रारंभ करने में विफल",
+    "recaptcha_error_title": "reCAPTCHA त्रुटि",
+    "resend_otp_error_title": "ओटीपी पुनः भेजने में त्रुटि"
+  },
+  "returns": "वापसी",
+  "return": "वापसी",
+  "review": "समीक्षा",
+  "reviewSeller": "विक्रेता की समीक्षा करें",
+  "review_comment_required": "समीक्षा टिप्पणी आवश्यक है",
+  "review_posted_successfully": "आपकी प्रतिक्रिया साझा करने के लिए धन्यवाद! आपकी समीक्षा सफलतापूर्वक पोस्ट की गई है।",
+  "review_submission_failed": "हम आपकी समीक्षा पोस्ट नहीं कर सके। कृपया अपनी जानकारी जांचें और पुनः प्रयास करें।",
+  "review_submitted": "समीक्षा सबमिट की गई",
+  "review_title": "समीक्षा शीर्षक",
+  "review_title_placeholder": "कुछ शब्दों में अपने अनुभव का सारांश लिखें",
+  "review_title_required": "समीक्षा शीर्षक आवश्यक है",
+  "reviewed_on": "{{date}} को समीक्षा की गई",
+  "reviews": "समीक्षाएँ",
+  "rushAvailable": "रश उपलब्ध",
+  "rushDeliveryUnavailable": "इस पते के लिए रश डिलीवरी उपलब्ध नहीं है।",
+  "save": "सहेजें",
+  "recommended": "अनुशंसित",
+  "saveForLaterTitle": "बाद के लिए सहेजें",
+  "save_changes": "परिवर्तन सहेजें",
+  "saving": "सहेजा जा रहा है...",
+  "scroll_more": "अधिक {{entityType}} खोजने के लिए नीचे स्क्रॉल करें",
+  "search": "खोजें...",
+  "search_error_message": "हम अभी उत्पाद खोज नहीं सके। कृपया पुनः प्रयास करें।",
+  "search_placeholder": "उत्पाद, ब्रांड खोजें...",
+  "search_products": "उत्पाद खोजें",
+  "search_results": "खोज परिणाम",
+  "searching_products": "उत्पाद खोजे जा रहे हैं...",
+  "seeAll": "सभी देखें",
+  "see_all": "सभी देखें",
+  "see_more": "और देखें",
+  "see_less": "कम दिखाएँ",
+  "attribute": "गुण",
+  "value": "मान",
+  "selectOptions": "विकल्प चुनें",
+  "select_payment_method": "भुगतान विधि चुनें",
+  "select_rating": "कृपया एक रेटिंग चुनें",
+  "select_status": "स्थिति चुनें",
+  "select_type": "प्रकार चुनें",
+  "selected": "चयनित",
+  "seller": "विक्रेता",
+  "sellerReviewsTitle": "विक्रेता समीक्षाएँ",
+  "send_request": "अनुरोध भेजें",
+  "share_your_thoughts": "अपनी राय साझा करें और दूसरों को बेहतर निर्णय लेने में मदद करें",
+  "shippingAddress": "शिपिंग पता",
+  "signup_toast": {
+    "invalid_phone_desc": "कृपया देश कोड के साथ एक मान्य फोन नंबर दर्ज करें (उदा. +911234567890)",
+    "invalid_phone_title": "अमान्य फोन नंबर",
+    "otp_sent_desc": "सत्यापन कोड आपके फोन पर भेजा गया है",
+    "otp_sent_title": "ओटीपी भेजा गया",
+    "recaptcha_error_desc": "reCAPTCHA सत्यापन प्रारंभ करने में विफल",
+    "recaptcha_error_title": "reCAPTCHA त्रुटि",
+    "signup_error_title": "साइन-अप त्रुटि"
+  },
+  "similarProducts": "समान उत्पाद",
+  "sku": "SKU",
+  "soldBy": "द्वारा बेचा गया",
+  "soldBySection": {
+    "acceptingOrders": "वर्तमान में ऑर्डर स्वीकार किए जा रहे हैं।",
+    "closed": "बंद",
+    "noLogo": "कोई लोगो नहीं",
+    "noSellerInfo": "विक्रेता की जानकारी उपलब्ध नहीं",
+    "open": "खुला",
+    "opensAt": "खुलता है",
+    "storeClosed": "स्टोर वर्तमान में बंद है।",
+    "storeLabel": "स्टोर:"
+  },
+  "something_went_wrong": "कुछ गलत हो गया",
+  "status": "स्थिति",
+  "step_error_description": "आप केवल {{step}} के गुणकों में ही ऑर्डर कर सकते हैं।",
+  "step_error_title": "अमान्य मात्रा चरण",
+  "stockAvailable": "स्टॉक: {{stock}} उपलब्ध",
+  "stock_limit_error_description": "केवल {{stock}} आइटम(s) स्टॉक में उपलब्ध हैं।",
+  "stock_limit_error_title": "स्टॉक सीमा तक पहुँचा गया",
+  "store_closed": "स्टोर बंद है",
+  "store_closed_message": "हम अभी थोड़ी देर के लिए बंद हैं। जल्द ही वापस आएं!",
+  "store_currently_closed": "स्टोर वर्तमान में बंद है",
+  "subcategories": "उपश्रेणियाँ",
+  "submission_failed": "सबमिशन विफल",
+  "submit_review": "समीक्षा सबमिट करें",
+  "submitting": "सबमिट किया जा रहा है...",
+  "subtotal": "उप-योग",
+  "success": "सफलता",
+  "terrible_experience": "बहुत बुरा अनुभव",
+  "tip": {
+    "clearButton": "साफ़ करें",
+    "currentAmount": "आप {{amount}} की टिप जोड़ रहे हैं। आपकी उदारता के लिए धन्यवाद! 🙏",
+    "customPlaceholder": "कस्टम राशि",
+    "defaultMessage": "🙏 आपका डिलीवरी पार्टनर आपकी दयालुता की सराहना करेगा। 🙏",
+    "sectionDescription": "आपकी दयालुता बहुत मायने रखती है! टिप की 100% राशि आपके डिलीवरी पार्टनर को दी जाती है।",
+    "sectionTitle": "अपने डिलीवरी पार्टनर को टिप दें"
+  },
+  "total": "कुल",
+  "track": "ट्रैक करें",
+  "trackOrder": "ऑर्डर ट्रैक करें",
+  "track_order": "ऑर्डर ट्रैक करें",
+  "trackOrderModal": {
+    "orderNumber": "ऑर्डर #{{slug}}",
+    "loading": "डिलीवरी जानकारी लोड हो रही है...",
+    "error": {
+      "fetchFailed": "डिलीवरी स्थान प्राप्त करने में विफल",
+      "generic": "स्थान प्राप्त करते समय एक त्रुटि हुई"
+    },
+    "orderStatus": "ऑर्डर स्थिति",
+    "deliveryPartnerLabel": "(डिलीवरी पार्टनर)",
+    "active": "सक्रिय",
+    "deliveryRoute": "डिलीवरी मार्ग",
+    "riderLocation": "राइडर स्थान",
+    "totalDistance": "कुल दूरी",
+    "km": "किमी",
+    "kmFromPrevious": "किमी पिछले से"
+  },
+  "transaction_id": "लेनदेन आईडी",
+  "try_again": "पुनः प्रयास करें",
+  "type": "प्रकार",
+  "type_at_least_2_chars": "कम से कम 2 अक्षर टाइप करें",
+  "typing_message": "आप टाइप करेंगे जैसे ही हम खोज शुरू करेंगे...",
+  "unable_to_get_delivery_partner": "डिलीवरी पार्टनर स्थान प्राप्त करने में असमर्थ",
+  "unable_to_load_offers": "ऑफ़र लोड करने में असमर्थ",
+  "unexpected_error": "अप्रत्याशित त्रुटि",
+  "untitled_product": "बिना शीर्षक का उत्पाद",
+  "updateReview": "समीक्षा संपादित करें",
+  "update_failed_description": "हम कार्ट आइटम को अपडेट नहीं कर सके।",
+  "update_failed_title": "अपडेट विफल",
+  "updates_every_30s": "हर 30 सेकंड में अपडेट होता है",
+  "usage": "उपयोग",
+  "userLayout": {
+    "addresses": "पते",
+    "myAccount": "मेरा खाता",
+    "myOrders": "मेरे ऑर्डर",
+    "myWishlists": "मेरी विशलिस्ट",
+    "shoppingList": "शॉपिंग सूची",
+    "online": "ऑनलाइन",
+    "referAndEarn": "रेफर और कमाएँ",
+    "transactions": "लेन-देन",
+    "wallet": "वॉलेट"
+  },
+  "validTill": "मान्य तक",
+  "validation": {
+    "locationRequired": "कृपया नक्शे का स्थान चुनें",
+    "mobileInvalid": "एक मान्य 10-अंकीय नंबर दर्ज करें",
+    "mobileRequired": "मोबाइल आवश्यक है",
+    "required": "आवश्यक"
+  },
+  "very_bad": "बहुत खराब",
+  "very_good": "बहुत अच्छा",
+  "viewOnMap": "नक्शे पर देखें",
+  "view_all": "सभी देखें",
+  "view_map": "नक्शा देखें",
+  "view_review": "समीक्षा देखें",
+  "wallet": "वॉलेट",
+  "wallet_transactions_table": "वॉलेट लेनदेन तालिका",
+  "warranty": "वारंटी",
+  "wishlist": {
+    "button": {
+      "create": "बनाएं",
+      "creating": "बनाया जा रहा है..."
+    },
+    "confirm_delete_wishlist": "क्या आप वाकई इस विशलिस्ट को हटाना चाहते हैं?",
+    "confirm_remove_item": "क्या आप वाकई इस आइटम को विशलिस्ट से हटाना चाहते हैं?",
+    "createNew": "नई विशलिस्ट बनाएं",
+    "create_first_wishlist": "ऊपर अपनी पहली विशलिस्ट बनाएं",
+    "create_new_wishlist": "नई विशलिस्ट बनाएं",
+    "delete_wishlist": "विशलिस्ट हटाएं",
+    "edit_wishlist_error": "नाम आवश्यक है",
+    "edit_wishlist_label": "विशलिस्ट नाम",
+    "edit_wishlist_placeholder": "विशलिस्ट नाम दर्ज करें",
+    "edit_wishlist_title": "विशलिस्ट संपादित करें",
+    "empty": {
+      "description": "उसके उत्पाद देखने के लिए साइडबार से एक विशलिस्ट चुनें",
+      "title": "एक विशलिस्ट चुनें"
+    },
+    "enter_wishlist_name": "विशलिस्ट नाम दर्ज करें...",
+    "error": {
+      "failed": "विशलिस्ट बनाने में विफल",
+      "required": "कृपया एक विशलिस्ट नाम दर्ज करें"
+    },
+    "failed_add_to_wishlist": "विशलिस्ट में जोड़ने में विफल",
+    "failed_create_wishlist": "विशलिस्ट बनाने में विफल",
+    "failed_delete_wishlist": "विशलिस्ट हटाने में विफल",
+    "failed_fetch_wishlists": "विशलिस्ट प्राप्त करने में विफल",
+    "failed_remove_item": "विशलिस्ट से आइटम हटाने में विफल",
+    "inputPlaceholder": "विशलिस्ट नाम दर्ज करें...",
+    "loading_wishlists": "विशलिस्ट लोड हो रही हैं...",
+    "modalTitle": "विशलिस्ट में सहेजें",
+    "move_modal_title": "किसी अन्य विशलिस्ट में स्थानांतरित करें",
+    "no_other_wishlists": "कोई अन्य विशलिस्ट उपलब्ध नहीं।",
+    "no_wishlists_found": "कोई विशलिस्ट नहीं मिली",
+    "save_to_wishlist": "विशलिस्ट में सहेजें",
+    "select_wishlist": "विशलिस्ट चुनें",
+    "select_wishlist_label": "विशलिस्ट चुनें",
+    "select_wishlist_placeholder": "विशलिस्ट चुनें",
+    "selected_wishlist_not_found": "चयनित विशलिस्ट नहीं मिली",
+    "wishlist_removeConfirmation": "क्या आप वाकई \"{{product}}\" को अपनी विशलिस्ट से हटाना चाहते हैं?"
+  },
+  "cookieConsent": {
+    "title": "🍪 हम आपकी गोपनीयता का सम्मान करते हैं",
+    "description": "यह वेबसाइट आपकी ब्राउज़िंग अनुभव को बेहतर बनाने, साइट ट्रैफ़िक का विश्लेषण करने और प्रासंगिक सामग्री दिखाने के लिए कुकीज़ का उपयोग करती है। 'स्वीकार करें' पर क्लिक करके, आप हमारी कुकीज़ के उपयोग के लिए सहमति देते हैं।",
+    "learnMore": "हम कुकीज़ का उपयोग कैसे करते हैं, इसके बारे में और जानें हमारे",
+    "privacyPolicyLink": "गोपनीयता नीति",
+    "accept": "स्वीकार करें",
+    "decline": "अस्वीकार करें"
+  },
+  "wishlist_button_create": "विशलिस्ट बनाएं",
+  "wishlist_button_creating": "विशलिस्ट बनाई जा रही है...",
+  "wishlist_create_new": "नई विशलिस्ट बनाएं",
+  "wishlist_emptyDescription": "आपने अभी तक अपनी विशलिस्ट में कोई आइटम नहीं जोड़ा है। अपने पसंदीदा उत्पादों को सहेजने के लिए अभी खोज शुरू करें!",
+  "wishlist_emptyTitle": "आपकी विशलिस्ट खाली है",
+  "wishlist_error_failed": "विशलिस्ट बनाने में विफल। कृपया पुनः प्रयास करें।",
+  "wishlist_error_required": "आगे बढ़ने से पहले कृपया एक विशलिस्ट नाम दर्ज करें।",
+  "wishlist_input_placeholder": "विशलिस्ट नाम दर्ज करें",
+  "wishlist_modal_title": "नई विशलिस्ट",
+  "wishlist_selectTitle": "एक विशलिस्ट चुनें",
+  "wishlist_selectDescription": "उत्पाद देखने के लिए बाएँ से कोई विशलिस्ट चुनें।",
+  "withdraw": "निकासी",
+  "withdraw_funds": "धन निकासी",
+  "withdrawal_request_failed": "निकासी अनुरोध विफल।",
+  "withdrawal_request_success": "आपका निकासी अनुरोध सफलतापूर्वक सबमिट कर दिया गया है।",
+  "work": "कार्य",
+  "yes_cancel": "हाँ, रद्द करें",
+  "youMightAlsoLike": "आपको यह भी पसंद आ सकता है",
+  "your_review": "आपकी समीक्षा",
+  "your_review_placeholder": "अपने अनुभव के बारे में विस्तृत प्रतिक्रिया साझा करें ({{type}} के साथ)...",
+  "latitude": "अक्षांश",
+  "longitude": "देशांतर",
+  "enter-city-or-address": "शहर या पता दर्ज करें",
+  "saveForLater": {
+    "title": "बाद के लिए सहेजा गया",
+    "button": "बाद के लिए सहेजें",
+    "movedMessage": "आइटम को आपके 'बाद के लिए सहेजे गए' सूची में स्थानांतरित कर दिया गया है।",
+    "removedMessage": "आइटम को 'बाद के लिए सहेजे गए' सूची से हटा दिया गया है।",
+    "empty": "कोई आइटम बाद के लिए सहेजा नहीं गया है",
+    "errorTitle": "क्रिया असफल रही",
+    "errorMessage": "इस आइटम को बाद के लिए सहेजा नहीं जा सका। कृपया पुनः प्रयास करें।",
+    "moveToCart": "कार्ट में जोड़ें",
+    "clearAll": "सभी सहेजे गए आइटम हटाएं",
+    "header": "आपके बाद के लिए सहेजे गए आइटम",
+    "moveSuccess": {
+      "title": "आइटम जोड़ा गया",
+      "description": "आइटम को सफलतापूर्वक आपके कार्ट में स्थानांतरित किया गया है।"
+    },
+    "moveFailed": {
+      "title": "क्रिया असफल हुई",
+      "description": "हम इस आइटम को आपके कार्ट में नहीं जोड़ सके। कृपया पुनः प्रयास करें।"
+    },
+    "search_keywords": "खोज कीवर्ड",
+    "start_typing_to_search": "खोजने के लिए टाइप करना शुरू करें..."
+  },
+  "return_items": "आइटम वापस करें",
+  "return_items_desc": "वे आइटम चुनें जिन्हें आप वापस करना चाहते हैं।",
+  "return_by": "वापस करने की अंतिम तिथि",
+  "return_requested": "वापसी अनुरोध किया गया",
+  "return_reason_title": "हमें बताएं कि आप क्यों वापस कर रहे हैं",
+  "return_reason_subtitle": "हमारी वापसी को तेजी से संसाधित करने में मदद करने के लिए विवरण जोड़ें।",
+  "return_reason_placeholder": "वापसी का कारण बताएं",
+  "return_reason_required": "कृपया वापसी का कारण प्रदान करें।",
+  "upload_supporting_photos": "सहायक फोटो अपलोड करें",
+  "remove_image": "छवि हटाएं",
+  "submit_request": "अनुरोध सबमिट करें",
+  "return_request_submitted": "वापसी अनुरोध सबमिट किया गया",
+  "return_request_success_msg": "आपका वापसी अनुरोध सफलतापूर्वक सबमिट कर दिया गया है।",
+  "return_request_failed": "वापसी अनुरोध विफल",
+  "return_request_cancelled": "वापसी अनुरोध रद्द कर दिया गया",
+  "return_request_cancelled_desc": "आपका वापसी अनुरोध सफलतापूर्वक रद्द कर दिया गया है।",
+  "return_request_cancel_failed": "अनुरोध रद्द नहीं किया जा सका",
+  "return_requests_title": "वापसी अनुरोध",
+  "return_requests_subtitle": "अपने जमा किए गए वापसी अनुरोध देखें और आवश्यकता होने पर रद्द करें।",
+  "view_return_requests": "वापसी अनुरोध देखें",
+  "no_return_requests": "अभी तक कोई वापसी अनुरोध नहीं है।",
+  "cancel_request": "अनुरोध रद्द करें",
+  "pickup_date": "पिकअप तिथि",
+  "reference": "संदर्भ",
+  "return_evidence": "वापसी सबूत",
+  "reason": "कारण",
+  "seller_comment": "विक्रेता टिप्पणी",
+  "sellerReviews": {
+    "title": "{{count}} समीक्षाएँ",
+    "subtitle": "{{count}} में से {{total}} समीक्षाएँ",
+    "sortAriaLabel": "समीक्षाओं को क्रमबद्ध करें",
+    "sort": {
+      "latest": "नवीनतम",
+      "oldest": "पुरानी"
+    },
+    "error": "समीक्षाएँ लोड करने में विफल। कृपया पुनः प्रयास करें।",
+    "noData": "कोई समीक्षा नहीं मिली।"
+  },
+  "could_not_load_some_images": "कुछ छवियाँ लोड नहीं हो सकीं।",
+  "image_load_failed": "छवि लोड करने में विफल रही।",
+  "search_keywords": "कीवर्ड खोजें",
+  "start_typing_to_search": "खोजने के लिए लिखना शुरू करें",
+  "not_found": "नहीं मिला",
+  "no_product_found": "कोई उत्पाद नहीं मिला",
+  "no_product_available": "हो सकता है यह उत्पाद आपके स्थान पर उपलब्ध न हो।",
+  "add": "जोड़ें",
+  "removedItems": {
+    "singleTitle": "आपकी कार्ट से एक आइटम हटा दिया गया है",
+    "multipleTitle": "आपकी कार्ट से कुछ आइटम हटा दिए गए हैं",
+    "description": "ये आइटम चयनित स्थान के लिए उपलब्ध नहीं हैं और हटा दिए गए हैं।",
+    "qty": "मात्रा",
+    "store": "स्टोर",
+    "empty": "कोई हटाए गए आइटम नहीं",
+    "close": "बंद करें"
+  },
+  "failedItems": {
+    "singleTitle": "आइटम कार्ट में नहीं जोड़ा जा सका",
+    "multipleTitle": "कुछ आइटम कार्ट में नहीं जोड़े जा सके",
+    "description": "निम्नलिखित आइटम आपकी कार्ट में नहीं जोड़े जा सके।",
+    "qty": "मात्रा",
+    "store": "स्टोर",
+    "reason": "कारण",
+    "empty": "कोई विफल आइटम नहीं",
+    "okay": "ठीक है"
+  },
+  "cashbackReward": "कैशबैक इनाम (लंबित)",
+  "cashbackAwarded": "कैशबैक प्रदान किया गया",
+  "promoDiscountApplied": "प्रोमो छूट लागू की गई",
+  "handlingCharges": "हैंडलिंग शुल्क",
+  "dropOffFee": "ड्रॉप-ऑफ शुल्क",
+  "cashbackAmount": "कैशबैक राशि",
+  "discountAmount": "छूट राशि",
+  "credited": "जमा किया गया",
+  "applied": "लागू किया गया",
+  "code": "कोड",
+  "cashbackPendingNote": "ऑर्डर पूरा होने के बाद कैशबैक आपके वॉलेट में जमा किया जाएगा।",
+  "giftCardApplied": "गिफ्ट कार्ड लागू",
+  "totalAmount": "कुल राशि",
+  "reset": "रीसेट करें",
+  "quickView": "त्वरित दृश्य",
+  "cancellation": "रद्दीकरण",
+  "returnable": "वापसी योग्य",
+  "not_returnable": "वापसी योग्य नहीं",
+  "return_days_policy": "{{count}} दिनों की वापसी नीति",
+  "cancelable": "ऑर्डर रद्द करने योग्य",
+  "not_cancelable": "रद्द करने योग्य नहीं",
+  "cancel_till_policy": "{{date}} से पहले",
+  "featured": "विशेष",
+  "walletAmount": "वॉलेट राशि",
+  "walletAmountUsed": "वॉलेट से उपयोग की गई राशि",
+  "walletPaymentNote": "{{walletAmount}} वॉलेट से भुगतान, {{remainingAmount}} {{paymentMethod}} के माध्यम से",
+  "totalPayable": "देय कुल राशि",
+  "browse": "ब्राउज़ करें",
+  "attachments": "अटैचमेंट",
+  "openInNewTab": "नए टैब में खोलें",
+  "please_select_variant": "कृपया एक वेरिएंट चुनें",
+  "preview": "पूर्वावलोकन",
+  "filters": {
+    "all": "सभी",
+    "dateRange": "तिथि सीमा",
+    "status": "स्थिति",
+    "last_30_minutes": "पिछले 30 मिनट",
+    "last_1_hour": "पिछला 1 घंटा",
+    "last_5_hours": "पिछले 5 घंटे",
+    "last_1_day": "पिछला 1 दिन",
+    "last_7_days": "पिछले 7 दिन",
+    "last_30_days": "पिछले 30 दिन",
+    "last_365_days": "पिछले 365 दिन",
+    "orderType": "ऑर्डर प्रकार",
+    "allTypes": "सभी प्रकार",
+    "regular": "नियमित",
+    "pickup": "स्वयं पिक-अप",
+    "freeDeliveryHint": "मुफ़्त डिलीवरी ऑफ़र",
+    "addMoreForFreeDelivery": "मुफ़्त डिलीवरी पाने के लिए {{amount}} और जोड़ें!"
+  },
+  "statusFilters": {
+    "pending": "लंबित",
+    "awaiting_store_response": "स्टोर प्रतिक्रिया की प्रतीक्षा",
+    "partially_accepted": "आंशिक रूप से स्वीकार किया गया",
+    "rejected_by_seller": "विक्रेता द्वारा अस्वीकृत",
+    "accepted_by_seller": "विक्रेता द्वारा स्वीकार किया गया",
+    "accepted": "स्वीकृत",
+    "ready_for_pickup": "पिकअप के लिए तैयार",
+    "assigned": "असाइन किया गया",
+    "preparing": "तैयारी हो रही है",
+    "collected": "एकत्रित",
+    "out_for_delivery": "डिलीवरी के लिए रवाना",
+    "delivered": "डिलीवर किया गया",
+    "cancelled": "रद्द किया गया",
+    "failed": "विफल",
+    "returned": "वापस किया गया"
+  },
+  "change": "बदलें",
+  "select_all": "सभी चुनें",
+  "deselect_all": "सभी अचयनित करें",
+  "closed": "बंद है",
+  "pickupStoreInfo": "स्टोर पिकअप पता",
+  "pickupStoresInfo": "स्टोर पिकअप पते",
+  "pickupInstructions": "पिकअप निर्देश",
+  "collection_otp_title": "स्टोर पिकअप के लिए तैयार",
+  "collection_otp_desc": "कृपया अपना ऑर्डर लेते समय स्टोर ऑपरेटर को यह ओटीपी दिखाएं।",
+  "collection_otp_label": "कलेक्शन ओटीपी"
+}

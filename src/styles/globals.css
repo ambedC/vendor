@@ -1,0 +1,249 @@
+@import "tailwindcss";
+
+@config "../../tailwind.config.ts";
+
+/* Base styles for resetting and normalizing */
+html,
+body {
+  padding-right: 0 !important;
+  max-width: 100vw !important;
+  overflow-x: hidden !important;
+}
+
+/* Scrollbar for webkit browsers like Chrome, Edge, Safari */
+::-webkit-scrollbar {
+  width: 8px; /* Adjust the width as desired */
+  height: 8px; /* For horizontal scrollbars */
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: rgba(100, 100, 100, 0.6); /* Scrollbar thumb color */
+  border-radius: 10px;
+  cursor: grab;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.1); /* Scrollbar track color */
+}
+
+/* Google Map Buttons */
+
+button[aria-label="Toggle fullscreen view"] {
+  border-radius: 28px !important; /* Apply the border-radius */
+}
+
+.gm-style-mtc button[aria-label="Show street map"] {
+  border-top-left-radius: 28px !important; /* Apply the border-radius */
+  border-bottom-left-radius: 28px !important; /* Apply the border-radius */
+}
+.gm-style-mtc button[aria-label="Show satellite imagery"] {
+  border-top-right-radius: 28px !important; /* Apply the border-radius */
+  border-bottom-right-radius: 28px !important; /* Apply the border-radius */
+}
+
+/* Progress Bar CSS */
+#nprogress {
+  pointer-events: none;
+}
+
+#nprogress .bar {
+  background: #007bff !important; /* Blue progress bar */
+  position: fixed;
+  z-index: 1031;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 4px !important;
+}
+
+#nprogress .peg {
+  display: block;
+  position: absolute;
+  right: 0px;
+  width: 100px;
+  height: 100%;
+  box-shadow:
+    0 0 10px #007bff,
+    0 0 5px #007bff !important;
+  opacity: 1;
+  transform: rotate(3deg) translate(0px, -4px);
+}
+
+#nprogress .spinner {
+  display: block;
+  position: fixed;
+  z-index: 1031;
+  top: 15px;
+  right: 15px;
+}
+
+#nprogress .spinner {
+  position: fixed;
+  top: 15px;
+  right: 15px;
+  z-index: 9999;
+}
+
+#nprogress .spinner-icon {
+  width: 20px;
+  height: 20px;
+  border: 2px solid transparent;
+  border-top-color: #007bff;
+  border-left-color: #007bff;
+  border-radius: 50%;
+  animation: nprogress-spinner 400ms linear infinite;
+}
+
+@keyframes nprogress-spinner {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* App Download Section CSS */
+
+@keyframes float {
+  0%,
+  100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-15px);
+  }
+}
+
+.animate-float {
+  animation: float 3s ease-in-out infinite;
+}
+
+.animate-float-delayed {
+  animation: float 3s ease-in-out infinite;
+  animation-delay: 1.5s;
+}
+
+.html-content strong {
+  font-weight: 700;
+}
+
+.html-content b {
+  font-weight: 700;
+}
+
+.html-content h4 {
+  font-size: 1rem;
+  font-weight: 700;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.html-content ul {
+  padding-left: 1.25rem;
+  list-style-type: disc;
+}
+
+.html-content li {
+  margin-bottom: 0.25rem;
+}
+
+.html-content p {
+  margin-bottom: 0.5rem;
+}
+
+/* Smoke animation */
+.smoke {
+  width: 18px;
+  height: 12px;
+  background: rgba(0, 0, 0, 0.15);
+  border-radius: 9999px;
+  animation: smoke 1.2s infinite ease-out;
+}
+
+.smoke.delay-150 {
+  animation-delay: 0.15s;
+}
+.smoke.delay-300 {
+  animation-delay: 0.3s;
+}
+
+@keyframes smoke {
+  0% {
+    transform: translateX(0) translateY(0) scale(1);
+    opacity: 0.6;
+  }
+  100% {
+    transform: translateX(-30px) translateY(-15px) scale(1.8);
+    opacity: 0;
+  }
+}
+
+/* Road animation */
+.road {
+  width: 200%;
+  height: 100%;
+  background: repeating-linear-gradient(
+    to right,
+    #333 0px,
+    #333 12px,
+    transparent 12px,
+    transparent 28px
+  );
+  animation: roadMove 0.6s linear infinite;
+}
+
+@keyframes roadMove {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-40px);
+  }
+}
+
+/* Common styles for both buttons */
+/* ❌ Hide by default (desktop & larger screens) */
+.swiper-button-next,
+.swiper-button-prev {
+  display: none;
+}
+
+/* ✅ Show only on mobile (≤ 431px) */
+@media (width <= 431px) {
+  .swiper-button-next,
+  .swiper-button-prev {
+    display: flex;
+    background: #ffffff;
+    border-radius: 9999px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+    color: #111;
+    align-items: center;
+    justify-content: center;
+    width: 36px !important;
+    height: 36px !important;
+  }
+
+  /* Dark mode */
+  .dark .swiper-button-next,
+  .dark .swiper-button-prev {
+    background: #1f2937;
+    color: #f9fafb;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.6);
+  }
+
+  /* Icon size */
+  .swiper-button-next svg,
+  .swiper-button-prev svg {
+    width: 16px !important;
+    height: 16px !important;
+  }
+}
